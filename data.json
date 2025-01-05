@@ -1,0 +1,2657 @@
+[
+    {
+        "id": 1,
+        "category": "grocery",
+        "name": "Organic Apples",
+        "price": "299",
+        "main_image": "https://images.immediate.co.uk/production/volatile/sites/10/2018/02/955f37aa-1ab9-445c-95a8-47129954f66e-2756327.jpg?resize=1200%2C630",
+        "additional_images": [
+"https://images.immediate.co.uk/production/volatile/sites/10/2018/02/955f37aa-1ab9-445c-95a8-47129954f66e-2756327.jpg?resize=1200%2C630",
+            "https://www.chandigarhayurvedcentre.com/wp-content/uploads/2021/03/APPLE.png",
+            "https://www.allrecipes.com/thmb/7puguWxu7N28mqvD6pQ6EcJ76xc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-144476015-3dcb5c523152449caf604e8bc551f5a8.jpg"
+        ],
+        "description": "Fresh organic apples with a crisp taste.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 2,
+        "category": "grocery",
+        "name": "Whole Wheat Bread",
+        "price": "99",
+        "main_image": "https://i0.wp.com/hicaps.com.ph/wp-content/uploads/2022/01/gardenia-whole-wheat-bread.jpg?resize=479%2C532&ssl=1",
+        "additional_images": [
+"https://i0.wp.com/hicaps.com.ph/wp-content/uploads/2022/01/gardenia-whole-wheat-bread.jpg?resize=479%2C532&ssl=1",
+            "https://pgmobile.puregold.com.ph/images/4806502720301.jpg",
+            "https://www.allrecipes.com/thmb/Xz7HF3vFLE1fvB4RseAQr1qZ3Ls=/0x512/filters:no_upscale():max_bytes(150000):strip_icc()/AR-6773-simple-whole-wheat-bread-DDMFS-4x3-B-969e7bce922948959cb9e85aa4b2ff0d.jpg",
+            "https://zerowastechef.com/wp-content/uploads/2020/12/baked-sandwich-bread.jpg"
+        ],
+        "description": "Nutritious whole wheat bread for a healthy diet.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+           },
+    {
+        "id": 3,
+        "category": "grocery",
+        "name": "Almond Milk",
+        "price": "199",
+        "main_image": "https://www.bigbasket.com/media/uploads/p/l/40061647_2-silk-almond-milk-original-non-gmo-imported.jpg",
+        "additional_images": [
+"https://www.bigbasket.com/media/uploads/p/l/40061647_2-silk-almond-milk-original-non-gmo-imported.jpg",
+            "https://www.healthifyme.com/blog/wp-content/uploads/2022/10/shutterstock_1927507580-1.jpg",
+            "https://i.ytimg.com/vi/JL8v3cfLLr4/mqdefault.jpg",
+            "https://media.bluediamond.com/uploads/2022/11/03103636/almond-breeze-almondmilk-vanilla.png"
+        ],
+        "description": "Healthy almond milk for daily consumption.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 4,
+        "category": "grocery",
+        "name": "Free-range Eggs",
+        "price": "149",
+        "main_image": "https://farmmadefoods.com/cdn/shop/products/24-eggs.png?v=1693457319",
+        "additional_images": [
+"https://farmmadefoods.com/cdn/shop/products/24-eggs.png?v=1693457319",
+            "https://farmmadefoods.com/cdn/shop/files/6-2_ef74341e-5308-4ff0-a0bf-64cb1ae731f7.png?v=1695897081",
+            "https://farmmadefoods.com/cdn/shop/files/1_3.png?v=1696497144",
+            "https://homesteading.com/wp-content/uploads/2021/03/Organic-eggs-from-free-range-hens-in-a-wicker-basket-Free-range-chickens-SS.jpg"
+        ],
+        "description": "High-quality free-range eggs.",
+  "rating": 4.8,
+        "stars": "★★★★★"
+
+    },
+    {
+        "id": 5,
+        "category": "grocery",
+        "name": "Organic Honey",
+        "price": "499",
+        "main_image": "https://m.media-amazon.com/images/I/61bAqH0ARXL._AC_UF1000,1000_QL80_.jpg",
+        "additional_images" : [
+ "https://m.media-amazon.com/images/I/61bAqH0ARXL._AC_UF1000,1000_QL80_.jpg",
+            "https://organicindia.com/cdn/shop/products/Honey_F.jpg?v=1672736336",
+            "https://5.imimg.com/data5/FK/PR/MY-43324479/pure-organic-honey-500x500.jpg",
+            "https://5.imimg.com/data5/IM/EB/VV/SELLER-45687351/organic-sweetners.jpg"
+        ],
+        "description": "Pure organic honey for a healthy sweetener.",
+  "rating": 4.8,
+        "stars": "★★★★★"
+
+    },
+    {
+        "id": 6,
+        "category": "grocery",
+        "name": "Greek Yogurt",
+        "price": "199",
+      
+   "main_image": "https://m.media-amazon.com/images/I/51gc4bxCBuL._AC_UF1000,1000_QL80_.jpg",
+        "additional_images": [
+ "https://m.media-amazon.com/images/I/51gc4bxCBuL._AC_UF1000,1000_QL80_.jpg",
+            "https://media.post.rvohealth.io/wp-content/uploads/2021/10/fruit-berries-yogurt-732x549-thumbnail-732x549.jpg",
+            "https://www.mygreekdish.com/wp-content/uploads/2023/08/Greek-Yogurt-recipe-How-to-make-homemade-Greek-Yogurt.jpeg",
+            "https://cdn-prod.medicalnewstoday.com/content/images/articles/323/323169/greek-yoghurt-in-bowl.jpg"
+        ],
+        "description": "Creamy Greek yogurt for a healthy snack.",
+  "rating": 4.8,
+        "stars": "★★★★★"
+
+          },
+    {
+        "id": 7,
+        "category": "grocery",
+        "name": "Quinoa",
+        "price": "399",
+        "main_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHZ0WFrGPrd6lE4XJkBmYuujalKpOwl70AOg&s",
+        "additional_images": [
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHZ0WFrGPrd6lE4XJkBmYuujalKpOwl70AOg&s",
+            "https://rukminim2.flixcart.com/image/850/1000/xif0q/cereal-flake/c/g/r/500-best-quality-quinoa-500g-pack-of-1-quinoa-seed-500-g-pouch-1-original-imagj2z3yg2tgekt.jpeg?q=90&crop=false",
+            "https://static-01.daraz.pk/p/2bc82aa3981ffa97f4442ddb0875613a.jpg"
+        ],
+        "description": "Nutritious quinoa for a healthy diet." ,
+  "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 8,
+        "category": "grocery",
+        "name": "Chia Seeds",
+        "price": "299",
+        "main_image": "https://true-elements.com/cdn/shop/files/Roasted-Chia-Seeds-125g-FOP.png?v=1706167859",
+        "additional_images": [
+"https://true-elements.com/cdn/shop/files/Roasted-Chia-Seeds-125g-FOP.png?v=1706167859",
+            "https://moringamiracle.com.pk/wp-content/uploads/2019/11/CHIA-100-NEW-2.png",
+            "https://m.media-amazon.com/images/I/51Z9BNZOgNL._AC_UF1000,1000_QL80_.jpg",
+            "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2021/11/chia_seeds_GettyImages1282395572_Thumb-732x549.jpg"
+        ],
+        "description": "Healthy chia seeds for smoothies and snacks.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+
+    },
+    {
+        "id": 9,
+        "category": "grocery",
+        "name": "Daawat Brown Rice",
+        "price": "199",
+        "main_image": "https://m.media-amazon.com/images/I/61pBqRtsNGS.jpg",
+        "additional_images": [
+ "https://m.media-amazon.com/images/I/61pBqRtsNGS.jpg",
+            "https://m.media-amazon.com/images/I/61Vl26fYAhL._AC_UF1000,1000_QL80_.jpg",
+            "https://blog-images-1.pharmeasy.in/blog/production/wp-content/uploads/2020/12/28183513/shutterstock_249324025-1.jpg",
+            "https://articles-1mg.gumlet.io/articles/wp-content/uploads/2016/05/brown-rice-2.jpg?compress=true&quality=80&w=640&dpr=2.6"
+        ],
+        "description": "Nutritious brown rice for healthy meals.",
+"rating": 4.8,
+        "stars": "★★★★★"
+
+    },
+    {
+        "id": 10,
+        "category": "grocery",
+        "name": "Coconut Oil",
+        "price": "399",
+        "main_image": "https://m.media-amazon.com/images/I/61iigBP-n+L.jpg",
+        "additional_images": [
+ "https://m.media-amazon.com/images/I/61iigBP-n+L.jpg",
+            "https://5.imimg.com/data5/AR/IP/MY-3966004/cold-pressed-pure-edible-coconut-oil.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpt6SFmTyO8IvRHUH-e0qCqU_acb6LeoX2DgA4IpDEno0ptmFcrOZv7TSvbsPO7QXyUZY&usqp=CAU",
+            "https://rawandfresh.com.au/cdn/shop/products/coconut-oil.jpg?v=1604451934"
+        ],
+        "description": "Pure coconut oil for cooking and skincare.",
+    "rating": 4.7,
+        "stars": "★★★★☆"
+
+    },
+    {
+        "id": 11,
+        "category": "grocery",
+        "name": "Oats",
+        "price": "199",
+        "main_image": "https://m.media-amazon.com/images/I/61SHF0RYZDL._AC_UF894,1000_QL80_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/61SHF0RYZDL._AC_UF894,1000_QL80_.jpg",
+            "https://media.post.rvohealth.io/wp-content/uploads/2020/03/oats-oatmeal-732x549-thumbnail.jpg",
+            "https://images.immediate.co.uk/production/volatile/sites/30/2023/08/Porridge-oats-d09fae8.jpg?quality=90&resize=440,400",
+            "https://evergreenkitchen.ca/wp-content/uploads/2023/01/Overnight-Oats-with-Coconut-Milk-Evergreen-Kitchen-1.jpg"
+        ],
+        "description": "Healthy oats for a nutritious breakfast.",
+    "rating": 4.7,
+        "stars": "★★★★☆"
+
+    },
+    {
+        "id": 12,
+        "category": "grocery",
+        "name": "Spinach",
+        "price": "99",
+        "main_image": "https://bivianodirect.com.au/wp-content/uploads/2020/06/products-C02E3DB6-8F2A-47B5-876A-1327217594A1.jpg",
+        "additional_images": [
+"https://bivianodirect.com.au/wp-content/uploads/2020/06/products-C02E3DB6-8F2A-47B5-876A-1327217594A1.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzGaQfb5U8KNQzCHUvdKbIMOGO48HP4yLGYw&s",
+            "https://img1.exportersindia.com/product_images/bc-full/2021/5/4179782/fresh-spinach-1621600079-5831075.jpeg",
+            "https://www.bigbasket.com/media/uploads/p/l/40060659_1-simply-fresh-baby-spinach-organically-grown.jpg"
+        ],
+        "description": "Fresh spinach for salads and cooking.",
+"rating": 4.8,
+        "stars": "★★★★★"
+
+    },
+    {
+        "id": 13,
+        "category": "grocery",
+        "name": "Carrots",
+        "price": "89",
+        "main_image": "https://www.ulmapackaging.com/en/packaging-solutions/produce/fresh-vegetables-in-trays/fresh-carrots-packaging-in-traysealing/1915_1.jpg/@@images/248de8e2-4914-45e5-b1fe-ed64f500f4d2.jpeg",
+        "additional_images": [
+            "https://www.ulmapackaging.com/en/packaging-solutions/produce/fresh-vegetables-in-trays/fresh-carrots-packaging-in-traysealing/1915_1.jpg/@@images/248de8e2-4914-45e5-b1fe-ed64f500f4d2.jpeg","https://dtgxwmigmg3gc.cloudfront.net/imagery/assets/derivations/icon/512/512/true/eyJpZCI6Ijc5MTI2ODkzNDgwYjViMzhkODQ4NzUwYzg2NDY4MDYyIiwic3RvcmFnZSI6InB1YmxpY19zdG9yZSJ9?signature=5a0af3c380a3147e6901081d13db2c295a4b16203afac6362fb2069e03578746",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFeB6d49SJprtpR5IccJjt81tF-PSiOXWQ7m-lLmQXOqc3aCVz-tTFp8XVv12YVRCVQk&usqp=CAU"
+        ],
+        "description": "Fresh carrots for salads and cooking.",
+    "rating": 4.7,
+        "stars": "★★★★☆"
+
+    },
+    {
+        "id": 14,
+        "category": "grocery",
+        "name": "Almond Butter",
+        "price": "499",
+        "main_image": "https://assets.shop.loblaws.ca/products/21126600/b2/en/front/21126600_front_a06_@2.png",
+        "additional_images": [
+ "https://assets.shop.loblaws.ca/products/21126600/b2/en/front/21126600_front_a06_@2.png",
+            "https://eatwithclarity.com/wp-content/uploads/2020/09/almond-butter.jpg",
+            "https://cookieandkate.com/images/2018/02/homemade-almond-butter-recipe-2.jpg"
+            ],
+        "description": "Delicious almond butter for spreading.",
+    "rating": 4.7,
+        "stars": "★★★★☆"
+
+       },
+    {
+        "id": 15,
+        "category": "grocery",
+        "name": "Broccoli",
+        "price": "149",
+        "main_image": "https://5.imimg.com/data5/SELLER/Default/2021/9/KY/ZA/XT/89163899/freeze-dried-broccoli1.jpg",
+        "additional_images": [
+ "https://5.imimg.com/data5/SELLER/Default/2021/9/KY/ZA/XT/89163899/freeze-dried-broccoli1.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2023/3/296749086/FH/WI/FZ/141991561/freeze-dried-broccoli-buds-500x500.jpg",
+            "https://m.media-amazon.com/images/I/61QaLssONPL._AC_UF1000,1000_QL80_.jpg",
+            "https://m.media-amazon.com/images/I/41hyGLlpmxL._AC_UF1000,1000_QL80_.jpg"
+        ],
+        "description": "Fresh broccoli for salads and cooking.",
+    "rating": 4.7,
+        "stars": "★★★★☆"
+
+    },
+    {
+        "id": 16,
+        "category": "grocery",
+        "name": "Avocado",
+        "price": "99",
+        "main_image": "https://images-cdn.ubuy.co.in/633feb7f85debb3ddf2d071f-avocado-box-branch-to-box-avocado-size.jpg",
+        "additional_images": [       
+"https://images-cdn.ubuy.co.in/633feb7f85debb3ddf2d071f-avocado-box-branch-to-box-avocado-size.jpg",
+     "https://5.imimg.com/data5/SELLER/Default/2022/7/PJ/QY/VC/123885710/freezeofreshpost-15--500x500.png",            "https://i.pinimg.com/564x/87/35/30/873530d428c1063d436f98c3067435a7.jpg",
+            "https://www.goodfoods.com/wp-content/uploads/2020/03/AVO-4PK-Straight-1024x1024.jpg"
+        ],
+        "description": "Fresh avocado for salads and sandwiches.",
+ "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 17,
+        "category": "grocery",
+        "name": "Blueberries",
+        "price": "199",
+        "main_image": "https://5.imimg.com/data5/VU/UZ/MG/ANDROID-63361085/product-jpeg-500x500.jpg",
+        "additional_images": [
+            "https://rgbmart.com/wp-content/uploads/2020/12/large_4cf0eefd-22bc-4fb1-aa01-6510caa366bd.jpg",
+            "https://mbg.com.my/cdn/shop/products/Mexico-Blueberry-125gPack-Berries-5_1024x1024.jpg?v=1641236814",
+            "https://saudiagroup.com/pub/media/catalog/product/cache/2a0b860d8a20befcb7fa9964e6991af0/4/1/4103.jpg"
+        ],
+        "description": "Fresh blueberries for smoothies and snacks.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 18,
+        "category": "grocery",
+        "name": "Salmon",
+        "price": "699",
+        "main_image": "https://chickenofthesea.com/wp-content/uploads/2023/06/COS_Salmon_Packet_lemon_hero.png",
+        "additional_images": [
+ "https://chickenofthesea.com/wp-content/uploads/2023/06/COS_Salmon_Packet_lemon_hero.png",
+            "https://i5.walmartimages.com/seo/Chicken-of-the-Sea-Wild-Caught-Skinless-Boneless-Pink-Salmon-2-5-oz-Pouch-6-pack_ace41ed4-db0e-44de-845b-978e3a5ab324.0a458acd88d729fc6af734341909d96a.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+            "https://5.imimg.com/data5/RG/PW/CX/SELLER-19106898/river-salmon-fillets-500x500.jpg",
+            "https://del.h-cdn.co/assets/17/07/2560x1920/sd-aspect-1487255484-asian-salmon-foil-packetsl4.jpg"
+        ],
+        "description": "Fresh salmon for healthy meals." ,
+ "rating": 4.8,
+        "stars": "★★★★★"
+   },
+    {
+        "id": 19,
+        "category": "grocery",
+        "name": "Chicken Breast",
+        "price": "499",
+        "main_image": "https://5.imimg.com/data5/WW/AE/MY-1187642/chicken-breast-boneless-500x500.jpeg",
+        "additional_images": [
+ "https://5.imimg.com/data5/WW/AE/MY-1187642/chicken-breast-boneless-500x500.jpeg",
+            "https://assets.shop.loblaws.ca/products/20127962/b2/en/front/20127962_front_a06_@2.png",
+            "https://static.vecteezy.com/system/resources/thumbnails/007/442/473/original/raw-chicken-breast-in-a-packet-on-table-video.jpg",
+            "https://www.meatemporium.com.au/cdn/shop/products/Jasper_Ave_AME_Chicken_Breast_56_1_460x@2x.jpg?v=1631617213"
+        ],
+        "description": "High-quality chicken breast for cooking.",
+ "rating": 4.8,
+        "stars": "★★★★★"
+
+    },
+    {
+        "id": 20,
+        "category": "grocery",
+        "name": "Greek Olive Oil",
+        "price": "599",
+        "main_image": "https://m.media-amazon.com/images/I/71dtIhoV0lL.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/71dtIhoV0lL.jpg",
+            "https://i.palletgrid.com/images/1200/images/2023/03/the-mill-natuerel-sizma-zeytinyagi-500-ml-81-71678463634.webp",
+            "https://4.imimg.com/data4/MX/MP/MY-12943757/evoo-packeging-500x500.jpg",
+            "https://vorganics.in/cdn/shop/files/Oliveoil.jpg?v=1706360229"
+        ],
+        "description": "High-quality Greek olive oil for cooking.",
+    "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 21,
+        "category": "appliances",
+        "name": "Samsung Refrigerator",
+        "price": "24999",
+        "main_image": "https://images.samsung.com/is/image/samsung/in-side-by-side-rs74t5f01b4tl-rs74t5f01b4-tl-frontblack-257500635?$650_519_PNG$",
+        "additional_images": [
+"https://images.samsung.com/is/image/samsung/in-side-by-side-rs74t5f01b4tl-rs74t5f01b4-tl-frontblack-257500635?$650_519_PNG$",
+            "https://images.samsung.com/is/image/samsung/ph-feature-easily-make-your-family-s-favorite-food-244067187?$FB_TYPE_A_MO_JPG$",
+            "https://images.samsung.com/is/image/samsung/p6pim/ph/rs64t5f01b4-tc/gallery/ph-ref-rs5000-familyhub-rs64t5f01b4-tc-534155966?$684_547_PNG$",
+            "https://images.samsung.com/is/image/samsung/p6pim/ph/rs64t5f01b4-tc/gallery/ph-ref-rs5000-familyhub-rs64t5f01b4-tc-534155964?$684_547_PNG$"
+        ],
+        "description": "Energy-efficient refrigerator with ample storage.",
+   "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 22,
+        "category": "appliances",
+        "name": "LG Convection Microwave Oven",
+        "price": "5999",
+        "main_image": "https://www.lg.com/content/dam/channel/wcms/in/images/microwave-ovens/mc3286brum_dbkqiln_eail_in_c/gallery/MC3286BRUM-microwave-ovens-Front-view-D-01.jpg",
+        "additional_images": [
+"https://www.lg.com/content/dam/channel/wcms/in/images/microwave-ovens/mc3286brum_dbkqiln_eail_in_c/gallery/MC3286BRUM-microwave-ovens-Front-view-D-01.jpg",
+            "https://d2xamzlzrdbdbn.cloudfront.net/products/accd96cd-cd48-4fc6-a674-2a344171dc01_416x416.jpg",
+            "https://www.fastemi.com/uploads/fastemicom/products/lg-32-l-all-in-one-charcoal-convection-microwave-oven-mjen326pk-black-489928_l.jpg",
+            "https://rukminim2.flixcart.com/image/850/1000/microwave-new/y/g/j/lg-mj3283bcg-original-imae4ty47m6wjhcs.jpeg?q=90&crop=false"
+        ],
+        "description": "High-power microwave oven for quick cooking.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 23,
+        "category": "appliances",
+        "name": "LG Washing Machine",
+        "price": "15999",
+        "main_image": "https://www.lg.com/content/dam/channel/wcms/in/images/washing-machines/fhp1208z5m_abmqeil_eail_in_c/gallery/fhp1208z5m-thum-2010x1334-1-1.jpg/_jcr_content/renditions/thum-1600x1062.jpeg",
+        "additional_images": [
+"https://www.lg.com/content/dam/channel/wcms/in/images/washing-machines/fhp1208z5m_abmqeil_eail_in_c/gallery/fhp1208z5m-thum-2010x1334-1-1.jpg/_jcr_content/renditions/thum-1600x1062.jpeg",
+            "https://www.lg.com/content/dam/channel/wcms/in/images/washing-machines/fhp1208z5m_abmqeil_eail_in_c/gallery/FHP1208Z5M-Washing-Machines-Front-View-Open-DZ-2.jpg",
+            "https://www.lg.com/content/dam/channel/wcms/in/images/washing-machines/fhp1208z5m_abmqeil_eail_in_c/gallery/FHP1208Z5M-Washing-Machines-Right-View-DZ-3.jpg",
+            "https://www.lg.com/content/dam/channel/wcms/in/images/washing-machines/fhp1208z5m_abmqeil_eail_in_c/gallery/FHP1208Z5M-Washing-Machines-Left-View-Open-DZ-4.jpg"
+        ],
+        "description": "Efficient washing machine with multiple modes.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 24,
+        "category": "appliances",
+        "name": "Voltas Air Conditioner",
+        "price": "29999",
+        "main_image": "https://images.jdmagicbox.com/quickquotes/images_main/voltas-1-2-ton-5-star-inverter-split-ac-copper-155v-dzw-white-178080266-oum4h.jpg",
+        "additional_images": [
+"https://images.jdmagicbox.com/quickquotes/images_main/voltas-1-2-ton-5-star-inverter-split-ac-copper-155v-dzw-white-178080266-oum4h.jpg",
+            "https://images.jdmagicbox.com/quickquotes/images_main/voltas-1-2-ton-5-star-inverter-split-ac-copper-155v-dzw-white-178080266-60kj8.jpg",
+            "https://images.jdmagicbox.com/quickquotes/images_main/voltas-1-2-ton-5-star-inverter-split-ac-copper-155v-dzw-white-178080266-a6u88.jpg",
+            "https://images.jdmagicbox.com/quickquotes/images_main/voltas-1-2-ton-5-star-inverter-split-ac-copper-155v-dzw-white-178080266-jnccg.jpg"
+        ],
+        "description": "High-efficiency air conditioner for cooling.",
+ "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 25,
+        "category": "appliances",
+        "name": "Crompton Dishwasher",
+        "price": "20999",
+        "main_image": "https://m.media-amazon.com/images/I/61n-GLZ70BL._AC_UF1000,1000_QL80_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/61n-GLZ70BL._AC_UF1000,1000_QL80_.jpg",
+          "https://m.media-amazon.com/images/I/410Ah-WoW7L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/616xSI0GaRL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61Y0VARmWHL._SL1500_.jpg"
+        ],
+        "description": "Automatic dishwasher for effortless cleaning.",
+ "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 26,
+        "category": "appliances",
+        "name": "Philips Vacuum Cleaner",
+        "price": "7999",
+        "main_image": "https://m.media-amazon.com/images/I/61qx5TEKFdL._AC_UF894,1000_QL80_.jpg",
+"additional_images": [
+ "https://m.media-amazon.com/images/I/61qx5TEKFdL._AC_UF894,1000_QL80_.jpg",
+            "https://m.media-amazon.com/images/I/71BXm+dCB2L._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/81ObCZJAy1L._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/81VwfCzGxkL._SX425_.jpg"
+        ],
+        "description": "Powerful vacuum cleaner for deep cleaning.",
+ "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 27,
+        "category": "appliances",
+        "name": "Agaro Coffee Maker",
+        "price": "4999",
+        "main_image": "https://m.media-amazon.com/images/I/61GRnqDOvaL._SX425_.jpg",
+        "additional_images":[        
+ "https://m.media-amazon.com/images/I/61GRnqDOvaL._SX425_.jpg",    "https://m.media-amazon.com/images/I/71HTkSDEd5L._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/71afAClyjXL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/71nW34tdfVL._SX425_.jpg"
+        ],
+        "description": "Automatic coffee maker for quick coffee.",
+"rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 28,
+        "category": "appliances",
+        "name": "Agaro Blender",
+        "price": "2999",
+        "main_image": "https://m.media-amazon.com/images/I/71m37N-cd+L._SX425_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/71m37N-cd+L._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/81CcXkhiI9L._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/81GxxU-kHoL._SX425_.jpg"
+        ],
+        "description": "High-speed blender for smoothies and shakes.",
+ "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 29,
+        "category": "appliances",
+        "name": "Milton Toaster",
+        "price": "1999",
+        "main_image": "https://m.media-amazon.com/images/I/7193BBdGMfL._SX425_.jpg",
+        "additional_images": [
+ "https://m.media-amazon.com/images/I/7193BBdGMfL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/81DJ9DI-AjL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/61qQbvmKrpL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/61KQyDsp0cL._SX425_.jpg"
+        ],
+        "description": "Compact toaster for quick breakfasts.",
+        "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 30,
+        "category": "appliances",
+        "name": "Hamilton Food Processor",
+        "price": "8999",
+        "main_image": "https://m.media-amazon.com/images/I/417VaV0VW6L._SX300_SY300_QL70_FMwebp_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/417VaV0VW6L._SX300_SY300_QL70_FMwebp_.jpg",
+            "https://m.media-amazon.com/images/I/816q2WOeoSL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/81vGksLUH-L._SX425_.jpg"
+        ],
+        "description": "Versatile food processor for chopping and blending.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 31,
+        "category": "gadgets",
+        "name": "Samsung S24",
+        "price": "79999",
+        "main_image": "https://i.gadgets360cdn.com/products/large/galaxy-s24-amber-yellow-656x800-1711537007.jpg?downsize=*:360",
+        "additional_images": [
+"https://i.gadgets360cdn.com/products/large/galaxy-s24-amber-yellow-656x800-1711537007.jpg?downsize=*:360",
+            "https://m.media-amazon.com/images/I/71BIup-4aBL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/714vVZ08l-L._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/61zn9AwHhkL._SX425_.jpg"
+        ],
+        "description": "Latest smartphone with advanced features." ,
+ "rating": 4.6,
+        "stars": "★★★★☆"
+  },
+    {
+        "id": 32,
+        "category": "gadgets",
+        "name": "Lenovo IdeaPad Slim 3",
+        "price": "49999",
+        "main_image": "https://m.media-amazon.com/images/I/51NvEfo1l9L._AC_UF1000,1000_QL80_.jpg",
+        "additional_images": [
+ "https://m.media-amazon.com/images/I/51NvEfo1l9L._AC_UF1000,1000_QL80_.jpg",
+            "https://m.media-amazon.com/images/I/61CSjHHCq6L._SY450_.jpg",
+            "https://m.media-amazon.com/images/I/61TsK2FwDNL._SY450_.jpg",
+            "https://m.media-amazon.com/images/I/61uc663wFgL._SY450_.jpg"
+        ],
+        "description": "High-performance laptop for work and gaming.",
+        "rating": 4.9,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 33,
+        "category": "gadgets",
+        "name": "Samsung Galaxy Tab A",
+        "price": "29999",
+        "main_image": "https://m.media-amazon.com/images/I/51tMdGirLpL._SX450_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/51tMdGirLpL._SX450_.jpg",
+            "https://m.media-amazon.com/images/I/317B2lSi3QL._SX450_.jpg",
+            "https://m.media-amazon.com/images/I/41-NkkT4K3L._SX450_.jpg"
+        ],
+        "description": "Portable tablet for entertainment and work." ,
+ "rating": 4.6,
+        "stars": "★★★★☆"
+   },
+    {
+        "id": 34,
+        "category": "gadgets",
+        "name": "BoAt Wave",
+        "price": "9999",
+        "main_image": "https://m.media-amazon.com/images/I/41RulQ1ZXbL._SX300_SY300_QL70_FMwebp_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/41RulQ1ZXbL._SX300_SY300_QL70_FMwebp_.jpg",
+            "https://m.media-amazon.com/images/I/61PbDF5yhZL._SY450_.jpg",
+            "https://m.media-amazon.com/images/I/711UaGMSLiL._SY450_.jpg"
+        ],
+        "description": "Boat WaveSmartwatch with fitness tracking features.",
+        "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 35,
+        "category": "gadgets",
+        "name": "Portronics Bluetooth Speaker",
+        "price": "4999",
+        "main_image": "https://m.media-amazon.com/images/I/51RjJOMMIjL._SX300_SY300_QL70_FMwebp_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/51RjJOMMIjL._SX300_SY300_QL70_FMwebp_.jpg",
+            "https://m.media-amazon.com/images/I/71tnYQpdpjL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/61OeTQIWprL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/61z9nRjZVzL._SX425_.jpg"
+        ],
+        "description": "Portable Bluetooth speaker with high-quality sound.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 36,
+        "category": "gadgets",
+        "name": "iGear Falcon Wired Gaming",
+        "price": "7999",
+        "main_image": "https://m.media-amazon.com/images/I/41EY+cvV6aL._SY300_SX300_.jpg",
+        "additional_images": [
+         "https://m.media-amazon.com/images/I/41EY+cvV6aL._SY300_SX300_.jpg", 
+            "https://m.media-amazon.com/images/I/51W7qD+IaiL._SY450_.jpg",
+            "https://m.media-amazon.com/images/I/61z+KKRUJWL._SY450_.jpg",
+            "https://m.media-amazon.com/images/I/51Zpe25-xxL._SY450_.jpg"
+        ],
+        "description": "Noise-cancelling headphones for immersive sound.",
+ "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 37,
+        "category": "gadgets",
+        "name": "Fujifilm Instax Mini 12 Instant purple",
+        "price": "39999",
+        "main_image": "https://m.media-amazon.com/images/I/61WXXeDFcnL._SY355_.jpg",
+        "additional_images": [
+        "https://m.media-amazon.com/images/I/61WXXeDFcnL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/61LTwLOZrtL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/61yysZ8SYfL._SX355_.jpg",
+            "https://m.media-amazon.com/images/I/616aK6EhKwL._SY355_.jpg"
+        ],
+        "description": "High-resolution camera for photography.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 38,
+        "category": "gadgets",
+        "name": "FITVII Slim Fitness Tracker",
+        "price": "5999",
+        "main_image": "https://m.media-amazon.com/images/I/718ey6A-v6L._SY606_.jpg",
+        "additional_images": [
+           "https://m.media-amazon.com/images/I/718ey6A-v6L._SY606_.jpg",
+            "https://m.media-amazon.com/images/I/71K9WYKJbjL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/71pIWMtKcyL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/61QI2Y4IK2L._SX425_.jpg"
+        ],
+        "description": "Fitness tracker for monitoring health and activity." ,
+"rating": 4.8,
+        "stars": "★★★★★"
+   },
+    {
+        "id": 39,
+        "category": "gadgets",
+        "name": "Hillstar Foldable Remote Control Drone",
+        "price": "19999",
+        "main_image": "https://m.media-amazon.com/images/I/51qXCYnLk0L._SY300_SX300_QL70_FMwebp_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/51x7yxmaZ5L._SX355_.jpg",
+            "https://m.media-amazon.com/images/I/51wcBmBheoL._SX355_.jpg",
+            "https://m.media-amazon.com/images/I/61fGQ2c2AJL._SY355_.jpg"
+        ],
+        "description": "High-performance drone for aerial photography." ,
+ "rating": 4.6,
+        "stars": "★★★★☆"
+   },
+    {
+        "id": 40,
+        "category": "gadgets",
+        "name": "Technuv Gaming Console",
+        "price": "29999",
+        "main_image": "https://m.media-amazon.com/images/I/41i8Yf0h+aL._SY300_SX300_.jpg",
+        "additional_images": [
+ "https://m.media-amazon.com/images/I/41i8Yf0h+aL._SY300_SX300_.jpg",
+            "https://m.media-amazon.com/images/I/61ClQoYfmUL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/4105NtVd+rL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/417UAIXz8SL._SY355_.jpg"
+        ],
+        "description": "Gaming console for an immersive gaming experience.",
+"rating": 4.8,
+        "stars": "★★★★★"
+    },
+       {
+        "id": 42,
+        "category": "women",
+        "name": "Buttoned Flap Pockets Women Long Denim Jacket",
+        "price": "1999",
+        "main_image": "https://images.meesho.com/images/products/209359927/zj4mo_512.webp",
+        "additional_images": [
+"https://images.meesho.com/images/products/209359927/zj4mo_512.webp",
+            "https://images.meesho.com/images/products/209359927/mv6ot_512.webp",
+            "https://images.meesho.com/images/products/209359927/ycxjg_512.webp",
+            "https://images.meesho.com/images/products/209359927/fphqt_512.webp"
+        ],
+        "description": "Stylish denim jacket for casual wear.",
+ "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 43,
+        "category": "women",
+        "name": "Leather Handbag",
+        "price": "2999",
+        "main_image": "https://m.media-amazon.com/images/I/71nNiiL8fHL._SY575_.jpg",
+        "additional_images": [
+           "https://m.media-amazon.com/images/I/71nNiiL8fHL._SY575_.jpg",
+            "https://m.media-amazon.com/images/I/71ma+h8YsmS._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/81NPOJcuydS._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/51fKMHtuOOL._SS40_.jpg",
+            "https://m.media-amazon.com/images/I/711+NLdvuoS._SY500_.jpg"
+        ],
+        "description": "Premium leather handbag for everyday use.",
+ "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 44,
+        "category": "women",
+        "name": "Tan Suede Tulli Ankle Boots",
+        "price": "9999",
+        "main_image": "https://www.ravel.co.uk/images/tan-suede-tulli-ankle-boots-ravel-p1356-9491_medium.jpg",
+        "additional_images": [
+"https://www.ravel.co.uk/images/tan-suede-tulli-ankle-boots-ravel-p1356-9491_medium.jpg",
+            "https://www.ravel.co.uk/images/tan-suede-tulli-ankle-boots-ravel-p1356-9491_thumbmini.jpg",
+            "https://www.ravel.co.uk/images/tan-suede-tulli-ankle-boots-ravel-p1356-9075_thumbmini.jpg",
+            "https://www.ravel.co.uk/images/tan-suede-tulli-ankle-boots-ravel-p1356-9076_thumbmini.jpg"
+        ],
+        "description": "Trendy ankle boots for a fashionable look."  ,
+ "rating": 4.6,
+        "stars": "★★★★☆"
+  },
+    {
+        "id": 45,
+        "category": "women",
+        "name": "Satin Silk Scarf",
+        "price": "999",
+        "main_image": "https://images.meesho.com/images/products/110647441/6pxqd_512.webp",
+        "additional_images": [
+"https://images.meesho.com/images/products/110647441/6pxqd_512.webp",
+            "https://images.meesho.com/images/products/110647441/rndbi_512.webp",
+            "https://images.meesho.com/images/products/110647441/5x56j_512.webp",
+            "https://images.meesho.com/images/products/110647441/luzri_512.webp"
+        ],
+        "description": "Elegant silk scarf for a touch of luxury." ,
+"rating": 4.8,
+        "stars": "★★★★★"
+  },
+    {
+        "id": 46,
+        "category": "women",
+        "name": "Huvora Women Sunglasse",
+        "price": "1499",
+        "main_image": "https://images.meesho.com/images/products/340603003/stz08_512.webp",
+        "additional_images": [
+ "https://images.meesho.com/images/products/340603003/stz08_512.webp",
+            "https://images.meesho.com/images/products/340603003/bmlih_512.webp",
+            "https://images.meesho.com/images/products/340603003/vngoj_512.webp",
+            "https://images.meesho.com/images/products/340603003/s8xg2_512.webp"
+        ],
+        "description": "Huvora sunglasses for stylish protection.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 47,
+        "category": "women",
+        "name": "Ever-Preety Woomen Sequin Evening Dress",
+        "price": "3999",
+        "main_image": "https://images.meesho.com/images/products/199459390/fxe6q_512.webp",
+        "additional_images": [
+"https://images.meesho.com/images/products/199459390/fxe6q_512.webp",
+            "https://images.meesho.com/images/products/199459390/4wkux_512.webp",
+            "https://images.meesho.com/images/products/199459390/0ygfb_512.webp",
+            "https://images.meesho.com/images/products/199459390/bkecj_512.webp"
+        ],
+        "description": "Gorgeous evening gown for special events.",
+        "rating": 4.9,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 48,
+        "category": "women",
+        "name": "Fashare womens High Heels",
+        "price": "1999",
+        "main_image": "https://images.meesho.com/images/products/119446229/svxz9_512.webp",
+        "additional_images": [
+"https://images.meesho.com/images/products/119446229/svxz9_512.webp",
+            "https://images.meesho.com/images/products/119446229/vcsl8_512.webp",
+            "https://images.meesho.com/images/products/119446229/vn0wg_512.webp"
+        ],
+        "description": "Stylish high heels for a sophisticated look.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 49,
+        "category": "women",
+        "name": "Boldfit Gym Wear Workout Leggings",
+        "price": "1299",
+        "main_image":     "https://images.meesho.com/images/products/278889166/ue9ed_512.webp",
+   "additional_images": [
+"https://images.meesho.com/images/products/278889166/ue9ed_512.webp",
+            "https://images.meesho.com/images/products/278889166/yzy5g_512.webp",
+            "https://images.meesho.com/images/products/278889166/goqbi_512.webp"
+        ],
+        "description": "Comfortable workout leggings for active wear.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 50,
+        "category": "women",
+        "name": "Beyond Fashion 100% Cashmere Sweater",
+        "price": "2999",
+        "main_image": "https://images.meesho.com/images/products/314294630/grw0b_512.webp",
+        "additional_images": [
+"https://images.meesho.com/images/products/314294630/grw0b_512.webp",
+            "https://images.meesho.com/images/products/314294630/5l4ya_512.webp",
+            "https://images.meesho.com/images/products/314294630/5x289_512.webp",
+            "https://images.meesho.com/images/products/314294630/w4ecr_512.webp"
+        ],
+        "description": "Luxurious cashmere sweater for cold weather.",
+ "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 51,
+        "category": "women",
+        "name": "Lyrur Women's Floral Skirt",
+        "price": "1,299",
+        "main_image": "https://images.meesho.com/images/products/305091790/hrkti_512.webp",
+        "additional_images": [
+ "https://images.meesho.com/images/products/305091790/hrkti_512.webp",
+            "https://images.meesho.com/images/products/305091790/mjxfl_512.webp",
+            "https://images.meesho.com/images/products/305091790/aypot_512.webp",
+            "https://images.meesho.com/images/products/305091790/mwxy6_512.webp"
+        ],
+        "description": "Lyrur Women's Floral Skirt for a trendy look.",
+        "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 52,
+        "category": "women",
+        "name": "PU Fashion Stylish Round Readymade Blouse",
+        "price": "999",
+        "main_image": "https://images.meesho.com/images/products/64646954/ytcox_512.webp",
+        "additional_images": [
+ "https://images.meesho.com/images/products/64646954/ytcox_512.webp",
+            "https://images.meesho.com/images/products/64646954/cyupk_512.webp",
+            "https://images.meesho.com/images/products/64646954/jyztl_512.webp"
+        ],
+        "description": "Elegant blouse for a sophisticated look.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 53,
+        "category": "women",
+        "name": "Qualfort Women's Cardigan Sweater",
+        "price": "8999",
+        "main_image": "https://images.meesho.com/images/products/187384210/mzufu_512.webp",
+        "additional_images": [
+"https://images.meesho.com/images/products/187384210/mzufu_512.webp",
+            "https://images.meesho.com/images/products/187384210/fo88p_512.webp",
+            "https://images.meesho.com/images/products/187384210/5dpgm_512.webp",
+            "https://images.meesho.com/images/products/187384210/edfmt_512.webp"
+          ],
+         "description": "Cozy cardigan for cooler weather.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 54,
+        "category": "women",
+        "name": "Dazeel Women Wrap Dress",
+        "price": "1799",
+        "main_image": "https://images.meesho.com/images/products/149616231/pbmnw_512.webp",
+        "additional_images": [
+"https://images.meesho.com/images/products/149616231/pbmnw_512.webp",
+            "https://images.meesho.com/images/products/149616231/blwwg_512.webp",
+            "https://images.meesho.com/images/products/149616231/y7lih_512.webp",
+            "https://images.meesho.com/images/products/149616231/ayla8_512.webp"
+        ],
+        "description": "Stylish wrap dress for versatile occasions.",
+        "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 55,
+        "category": "women",
+        "name": "Aahwan Women's Tank Top",
+        "price": "599",
+        "main_image": "https://images.meesho.com/images/products/273382680/wchzn_512.webp",
+        "additional_images": [
+"https://images.meesho.com/images/products/273382680/wchzn_512.webp",
+            "https://images.meesho.com/images/products/273382680/wchzn_512.webp",
+            "https://images.meesho.com/images/products/273382680/vif4t_512.webp",
+            "https://images.meesho.com/images/products/273382680/sx0t0_512.webp"
+        ],
+        "description": "Casual tank top for everyday wear.",
+        "rating": 4.5,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 56,
+        "category": "women",
+        "name": "Women New Sport Bra",
+        "price": "1499",
+        "main_image": "https://images.meesho.com/images/products/193791740/qhlsl_512.webp",
+        "additional_images": [
+"https://images.meesho.com/images/products/193791740/qhlsl_512.webp",
+            "https://images.meesho.com/images/products/193791740/roxs5_512.webp",
+            "https://images.meesho.com/images/products/193791740/clozg_512.webp",
+            "https://images.meesho.com/images/products/193791740/etsae_512.webp"
+        ],
+        "description": "Comfortable palazzo pants for a chic look.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 57,
+        "category": "women",
+        "name": "Peacoat",
+        "price": "2999",
+        "main_image": "https://images.meesho.com/images/products/271111012/zbajd_512.webp",
+        "additional_images": [
+ "https://images.meesho.com/images/products/271111012/zbajd_512.webp",
+            "https://images.meesho.com/images/products/271111012/snykg_512.webp",
+            "https://images.meesho.com/images/products/271111012/x2opw_512.webp"
+        ],
+        "description": "Elegant peacoat for a polished look.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 58,
+        "category": "women",
+        "name": "Midi Dress",
+        "price": "1399",
+        "main_image": "https://images.meesho.com/images/products/231258427/tqqi7_512.webp",
+        "additional_images": [
+"https://images.meesho.com/images/products/231258427/tqqi7_512.webp",
+            "https://images.meesho.com/images/products/231258427/ry16p_512.webp",
+            "https://images.meesho.com/images/products/231258427/lg7ln_512.webp",
+            "https://images.meesho.com/images/products/231258427/kbfjz_512.webp"
+        ],
+        "description": "Versatile midi dress for various occasions.",
+        "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 59,
+        "category": "women",
+        "name": "Women's Bra panty Bridal Lingerie",
+        "price": "799",
+        "main_image": "https://images.meesho.com/images/products/351425947/cmmmi_512.webp",
+        "additional_images": [
+"https://images.meesho.com/images/products/351425947/cmmmi_512.webp",
+            "https://images.meesho.com/images/products/351425947/dqcy6_512.webp",
+            "https://images.meesho.com/images/products/351425947/ap5ob_512.webp",
+            "https://images.meesho.com/images/products/351425947/vv9mg_512.webp"
+        ],
+        "description": "Lightweight chiffon scarf for a stylish touch.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 60,
+        "category": "women",
+        "name": "Tote Bag",
+        "price": "2499",
+        "main_image": "https://images.meesho.com/images/products/54388890/arlab_512.webp",
+        "additional_images": [
+"https://images.meesho.com/images/products/54388890/arlab_512.webp",
+            "https://images.meesho.com/images/products/54388890/ye2hx_512.webp",
+            "https://images.meesho.com/images/products/54388890/mg55j_512.webp",
+            "https://images.meesho.com/images/products/54388890/rseki_512.webp"
+        ],
+        "description": "Spacious tote bag for daily essentials." ,
+ "rating": 4.6,
+        "stars": "★★★★☆"
+   },
+   {
+        "id": 61,
+        "category": "men",
+        "name": "Hoodie",
+        "price": "1499",
+        "main_image": "https://m.media-amazon.com/images/I/31HhCJAXQPL._SX300_SY300_QL70_FMwebp_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/31HhCJAXQPL._SX300_SY300_QL70_FMwebp_.jpg",
+            "https://m.media-amazon.com/images/I/61Sn6YEVMSL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/61KqDl3EkSL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/61l-TFy7esL._SX425_.jpg"
+        ],
+        "description": "Comfortable hoodie for casual wear.",
+   "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 62,
+        "category": "men",
+        "name": "U.S. Polo Assn Men's Slim Fit T-shirt Shirt",
+        "price": "1299",
+        "main_image": "https://m.media-amazon.com/images/I/71P7U99X5hL._SX522_.jpg",
+        "additional_images": [
+ "https://m.media-amazon.com/images/I/71P7U99X5hL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/71MS6Pt1aFL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/81CX1FwMwrL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/61EIjjJ387L._SY550_.jpg"
+        ],
+        "description": "Classic polo shirt for a smart casual look." ,
+ "rating": 4.6,
+        "stars": "★★★★☆"
+   },
+    {
+        "id": 63,
+        "category": "men",
+        "name": "Tahvo Men's Solid Cotton Slim Fit Chinos Pants",
+        "price": "1699",
+        "main_image": "https://m.media-amazon.com/images/I/6125SZ6PNwL._SX679_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/6125SZ6PNwL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/61UEJawclzL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/61+jfEYOJYL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/511fXI0W3sL._SX522_.jpg"
+        ],
+        "description": "Versatile chinos for smart and casual occasions." ,
+   "rating": 4.8,
+        "stars": "★★★★★"
+   },
+    {
+        "id": 64,
+        "category": "men",
+        "name": "Bomber Jacket",
+        "price": "2499",
+        "main_image": "https://m.media-amazon.com/images/I/61ERl8U2SRL._SX679_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/61ERl8U2SRL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/81pbUg5P3HL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/718K8KqoiTL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/715eXVg9RLL._SY550_.jpg"
+        ],
+        "description": "Trendy bomber jacket for a stylish look.",
+ "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 65,
+        "category": "men",
+        "name": "Sweater",
+        "price": "1399",
+        "main_image": "https://m.media-amazon.com/images/I/81VSodocGlL._SX522_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/81VSodocGlL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/81568ESmxkL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/71c6y6pygHL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/71LDuB8NWVL._SY550_.jpg"
+        ],
+        "description": "Cozy sweater for colder days." ,
+   "rating": 4.8,
+        "stars": "★★★★★"
+   },
+    {
+        "id": 66,
+        "category": "men",
+        "name": "V-Neck T-Shirt",
+        "price": "699",
+        "main_image": "https://m.media-amazon.com/images/I/619wysF1LDL._SX522_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/619wysF1LDL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/61JCP1Q9VIL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/61mqLnf4+kL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/61KaGO2UjLL._SX425_.jpg"
+        ],
+        "description": "Casual V-neck T-shirt for everyday wear.",
+ "rating": 4.6,
+        "stars": "★★★★☆"
+     },
+    {
+        "id": 67,
+        "category": "men",
+        "name": "Blazer",
+        "price": "2999",
+        "main_image": "https://m.media-amazon.com/images/I/31WUkcqiNGL.jpg",
+        "additional_images": [
+           "https://m.media-amazon.com/images/I/31WUkcqiNGL.jpg",
+            "https://m.media-amazon.com/images/I/31179DY0wdL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/31WkMTHg4vL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/31yf2Vn0veL._SY500_.jpg"
+        ],
+        "description": "Smart blazer for formal occasions." ,
+   "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 68,
+        "category": "men",
+        "name": "Cargo Pant",
+        "price": "1599",
+        "main_image": "https://m.media-amazon.com/images/I/61MrRLqLWFL._SY679_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/61MrRLqLWFL._SY679_.jpg",
+            "https://m.media-amazon.com/images/I/71XOBVTYHJL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/71Zm+xBU2gL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/71YCKQeP3OL._SY550_.jpg"
+        ],
+        "description": "Functional cargo pants for outdoor activities."  ,
+   "rating": 4.8,
+        "stars": "★★★★★"
+   },
+    {
+        "id": 69,
+        "category": "men",
+        "name": "Leather Belt",
+        "price": "999",
+        "main_image": "https://m.media-amazon.com/images/I/71O9s1Qn22L._SX679_.jpg",
+        "additional_images": [
+           "https://m.media-amazon.com/images/I/71O9s1Qn22L._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/81yL+zNm7IL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/71NwvnuseWL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/81d6bGy+ojL._SX522_.jpg"
+        ],
+        "description": "Classic leather belt for a polished look."  ,
+   "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 70,
+        "category": "men",
+        "name": "Baseball Cap",
+        "price": "699",
+        "main_image": "https://m.media-amazon.com/images/I/61tasYDTWkL._SX679_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/61tasYDTWkL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/51cVmPOS9dL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/51MRsreUHuL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/512LLz9pCmL._SX679_.jpg"
+        ],
+        "description": "Casual baseball cap for everyday use." ,
+ "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+ 
+    {
+        "id": 71,
+        "category": "men",
+        "name": "Men's 3 Piece Suit Blazer",
+        "price": "4999",
+        "main_image": "https://m.media-amazon.com/images/I/71g8IFJ1FIL._SX522_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/61RXJ-FJXsL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/71bCzE+FOsL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/71Xrz2TjUwL._SX425_.jpg"
+        ],
+        "description": "Elegant suit for formal occasions."  ,
+   "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 72,
+        "category": "men",
+        "name": "Leather Jacket For Men",
+        "price": "2999",
+        "main_image": "https://m.media-amazon.com/images/I/51xkwGs5ZjL._SX522_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/51xkwGs5ZjL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/41ddPjwjDSL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/41njBFrVFZL._SX522_.jpg"
+        ],
+        "description": "Stylish leather jacket for a bold look.",
+ "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 73,
+        "category": "men",
+        "name": "Running Shoes",
+        "price": "1999",
+        "main_image": "https://m.media-amazon.com/images/I/616zTSviLpL._SY575_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/616zTSviLpL._SY575_.jpg",
+            "https://m.media-amazon.com/images/I/61XYz5y6RjL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/61fcrs07c6L._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/61eY3EBVYCL._SY500_.jpg"
+        ],
+        "description": "Comfortable running shoes for active wear.",
+   "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 74,
+        "category": "men",
+        "name": "Shirt Theory Slim Fit Casual Shirt",
+        "price": "1299",
+        "main_image": "https://m.media-amazon.com/images/I/613-QeObUUS._SY550_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/613-QeObUUS._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/61E4AQh7akS._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/51Vog2k5ZTS._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/717y365q7GS._SY550_.jpg"
+        ],
+        "description": "Stylish casual shirt for everyday wear.",
+ "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 75,
+        "category": "men",
+        "name": "Silver Men's Jeans",
+        "price": "1499",
+        "main_image": "https://m.media-amazon.com/images/I/81Ni-mctHBL._SY679_.jpg",
+        "additional_images": [
+             "https://m.media-amazon.com/images/I/81Ni-mctHBL._SY679_.jpg",
+            "https://m.media-amazon.com/images/I/81HtdNt4dlL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/81UnFb+fGsL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/716PFXb6DpL._SY550_.jpg"
+        ],
+        "description": "Comfortable and durable jeans for casual wear.",
+   "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 76,
+        "category": "men",
+        "name": "Server Mens Formal Shoes",
+        "price": "2499",
+        "main_image": "https://m.media-amazon.com/images/I/71pCHsf9ZOL._SX575_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/71pCHsf9ZOL._SX575_.jpg",
+            "https://m.media-amazon.com/images/I/818r4uck10L._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/61llqal6y1L._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/71RcKyEpVhL._SY500_.jpg"
+        ],
+        "description": "Elegant formal shoes for business attire.",
+ "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 77,
+        "category": "men",
+        "name": "Crew Neck Sweatshirt",
+        "price": "999",
+        "main_image": "https://m.media-amazon.com/images/I/71jlSoZcwqL._SX522_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/71jlSoZcwqL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/71gK76RSx1L._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/91cZhQxxi2L._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/71rbyp4oJsL._SY550_.jpg"
+        ],
+        "description": "Comfortable sweatshirt for casual wear." ,
+ "rating": 4.6,
+        "stars": "★★★★☆"
+   },
+    {
+        "id": 78,
+        "category": "men",
+        "name": "Benyar Luxury Watch",
+        "price": "1999",
+        "main_image": "https://m.media-amazon.com/images/I/61UAB5d9i0L._SY606_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/61UAB5d9i0L._SY606_.jpg",
+            "https://m.media-amazon.com/images/I/71AwkhYPiWS._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/71zdZw4O6eS._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/71NxBsat4BL._SX522_.jpg"
+        ],
+        "description": "Elegant watch for a sophisticated look." ,
+ "rating": 4.6,
+        "stars": "★★★★☆"
+   },
+    {
+        "id": 79,
+        "category": "men",
+        "name": "Gear Campus8 25l Backpack",
+        "price": "999",
+        "main_image": "https://m.media-amazon.com/images/I/91YVwfV7b1L._SY679_.jpg",
+        "additional_images": [
+           "https://m.media-amazon.com/images/I/91YVwfV7b1L._SY679_.jpg",
+            "https://m.media-amazon.com/images/I/81V1wfAsk9L._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/91BofPnULbL._SX466_.jpg",
+            "https://m.media-amazon.com/images/I/A13piS1akxL._SY550_.jpg"
+        ],
+        "description": "Durable backpack for everyday use."  ,
+   "rating": 4.8,
+        "stars": "★★★★★"
+  },
+    {
+        "id": 80,
+        "category": "men",
+        "name": "Sunglasses",
+        "price": "1299",       
+         "main_image": "https://m.media-amazon.com/images/I/41QL8ahRmjL.jpg",
+        "additional_images": [
+           "https://m.media-amazon.com/images/I/41QL8ahRmjL.jpg",
+            "https://m.media-amazon.com/images/I/31KjasCDU2L._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/315Ou8veQHL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/413oBM-b4yL._SX522_.jpg"
+        ],
+        "description": "Stylish sunglasses for everyday use.",
+   "rating": 4.8,
+        "stars": "★★★★★"
+    },
+ {
+        "id": 81,
+        "category": "kids",
+        "name": "Comfortable Kids Sneakers",
+        "price": "999",
+        "main_image": "https://m.media-amazon.com/images/I/71Np3EdZPDL._SY575_.jpg",
+        "additional_images": [
+           "https://m.media-amazon.com/images/I/71Np3EdZPDL._SY575_.jpg",
+            "https://m.media-amazon.com/images/I/719kEJthMBL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/71aQrFl579L._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/71IQp9-Zq9L._SY500_.jpg"
+        ],
+        "description": "Comfortable sneakers for kids." ,
+ "rating": 4.6,
+        "stars": "★★★★☆"
+   },
+    {
+        "id": 82,
+        "category": "kids",
+        "name": "Cotton Cozy Sweatpants",
+        "price": "899",
+        "main_image": "https://m.media-amazon.com/images/I/81MlIXnWoXL._SX466_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/81MlIXnWoXL._SX466_.jpg",
+            "https://m.media-amazon.com/images/I/71tg7PW7M7L._SX385_.jpg",
+            "https://m.media-amazon.com/images/I/719+MK+KgoL._SY445_.jpg",
+            "https://m.media-amazon.com/images/I/61GL7OPkF9L._SY445_.jpg"
+        ],
+        "description": "Cozy sweatpants for everyday comfort.",
+   "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id":83,
+        "category": "kids",
+        "name": "Puddle play Rubber Kids Rain Boots",
+        "price": "799",
+        "main_image": "https://m.media-amazon.com/images/I/61pwoz5XbVS._SY695_.jpg",
+        "additional_images": [
+           "https://m.media-amazon.com/images/I/61pwoz5XbVS._SY695_.jpg",
+            "https://m.media-amazon.com/images/I/714KKpNmVOS._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/71FRTXO7JkS._SX500_.jpg",
+            "https://m.media-amazon.com/images/I/81EO+j-S6EL._SY500_.jpg"
+        ],
+        "description": "Durable rain boots for wet weather.",
+ "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 84,
+        "category": "kids",
+        "name": " Self Striped Graphic Print T-Shirt",
+        "price": "699",
+        "main_image": "https://m.media-amazon.com/images/I/51z0Mdu4s9L._SX522_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/51z0Mdu4s9L._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/81SarBM-jEL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/71NleyB-j2L._SX522_.jpg"
+        ],
+        "description": "Fun graphic T-shirt for a stylish look.",
+ "rating": 4.6,
+        "stars": "★★★★☆"
+     },
+
+    {
+        "id": 85,
+        "category": "kids",
+        "name": "Kidscool Denim Overalls",
+        "price": "1099",
+        "main_image": "https://m.media-amazon.com/images/I/71BcnBaMhRL._SX522_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/71BcnBaMhRL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/61yqoPaji7L._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/81osYqnHyhL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/81G3DKVdNIL._SX522_.jpg"
+        ],
+        "description": "Classic denim overalls for playful days.",
+   "rating": 4.8,
+        "stars": "★★★★★"
+      },
+    {
+        "id": 86,
+        "category": "kids",
+        "name": "Toddler Baby Winter Jacket",
+        "price": "1999",
+        "main_image": "https://m.media-amazon.com/images/I/51AEfBO7yeL._SX679_.jpg",
+        "additional_images": [
+          "https://m.media-amazon.com/images/I/51AEfBO7yeL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/61IxofdoslL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/61oz-LC4xUL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/61IFYBgrypL._SX522_.jpg"
+        ],
+        "description": "Warm winter jacket for cold days.",
+ "rating": 4.6,
+        "stars": "★★★★☆"
+      },
+    {
+        "id": 87,
+        "category": "kids",
+        "name": "Kids Ghost Grey Hoodie",
+        "price": "899",
+        "main_image": "https://m.media-amazon.com/images/I/51pPsFgfe6L._SX522_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/51pPsFgfe6L._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/51ke6Pm50RL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/510h-fPuagL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/61rxBFKIcbL._SX522_.jpg"
+        ],
+        "description": "Comfortable hoodie for casual wear." ,
+ "rating": 4.6,
+        "stars": "★★★★☆"
+   },
+    {
+        "id": 88,
+        "category": "kids",
+        "name": "Cute Printed Girls Leggings",
+        "price": "699",
+        "main_image": "https://m.media-amazon.com/images/I/610hXCZlnwL._SX522_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/610hXCZlnwL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/717e8KNHt9L._SX522_.jpg"
+        ],
+        "description": "Soft leggings for everyday comfort.",
+        "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 89,
+        "category": "kids",
+        "name": "Baby Sun Hat",
+        "price": "499",
+        "main_image": "https://m.media-amazon.com/images/I/71+M9BwrF8L._SY679_.jpg",
+        "additional_images": [
+           "https://m.media-amazon.com/images/I/71+M9BwrF8L._SY679_.jpg",
+            "https://m.media-amazon.com/images/I/81phffubgfL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/7146S9LGqsL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/710PL+JPvYL._SX522_.jpg"
+        ],
+        "description": "Protective sun hat for sunny days.",
+        "rating": 4.5,
+        "stars": "★★★★☆"
+    },
+    {
+        "id":90,
+        "category": "kids",
+        "name": "Neomio Kids Ankle Length Boots",
+        "price": "899",
+        "main_image": "https://m.media-amazon.com/images/I/81nwDzn22EL._SY575_.jpg",
+        "additional_images": [
+          "https://m.media-amazon.com/images/I/81nwDzn22EL._SY575_.jpg",
+            "https://m.media-amazon.com/images/I/71Hx0I3kdsL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/81da45agRGL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/81rRyBpX+DL._SY500_.jpg"
+        ],
+        "description": "Sturdy boots for adventurous kids.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 91,
+        "category": "kids",
+        "name": "Boys Lightweight Puffer Jacket",
+        "price": "1499",
+        "main_image": "https://m.media-amazon.com/images/I/61qsLRdVf2L._SY550_.jpg",
+        "additional_images": [
+             "https://m.media-amazon.com/images/I/61qsLRdVf2L._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/617tCg0euFL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/61iBGo1KxGL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/61pe7fGTo1L._SY550_.jpg"
+        ],
+        "description": "Warm puffer jacket for chilly days.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 92,
+        "category": "kids",
+        "name": "Tracksuit",
+        "price": "1299",
+        "main_image": "https://m.media-amazon.com/images/I/71z0wCtuhpL._SX466_.jpg",
+        "additional_images": [
+             "https://m.media-amazon.com/images/I/71z0wCtuhpL._SX466_.jpg",
+            "https://m.media-amazon.com/images/I/81sSmYOWLoL._SX466_.jpg",
+            "https://m.media-amazon.com/images/I/61We9RRc0vL._SX466_.jpg",
+            "https://m.media-amazon.com/images/I/81sSmYOWLoL._SX466_.jpg"
+        ],
+        "description": "Comfortable tracksuit for active kids.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 93,
+        "category": "kids",
+        "name": "Snowie Soft Hooded Raincoat",
+        "price": "999",
+        "main_image": "https://m.media-amazon.com/images/I/610JGmqgyDL._SX679_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/610JGmqgyDL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/515xvEbwulL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/61pxlzA2xrL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/61Tq1py9phL._SX522_.jpg"
+        ],
+        "description": "Durable raincoat to keep kids dry.",
+        "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 94,
+        "category": "kids",
+        "name": "Shorts",
+        "price": "699",
+        "main_image": "https://m.media-amazon.com/images/I/81Y2qdd1FwL._SX679_.jpg",
+        "additional_images": [
+          "https://m.media-amazon.com/images/I/81Y2qdd1FwL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/71n1hNCbVbL._SX466_.jpg",
+            "https://m.media-amazon.com/images/I/61YT9FrLQHL._SX466_.jpg",
+            "https://m.media-amazon.com/images/I/61rFg1WgT8L._SX466_.jpg"
+        ],
+        "description": "Casual shorts for warm weather.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 95,
+        "category": "kids",
+        "name": "Cotton blend Hooded Sweatshirt",
+        "price": "899",
+        "main_image": "https://m.media-amazon.com/images/I/8196rMQY3hL._SX679_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/8196rMQY3hL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/71laF80l8YL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/71tWHuxJmrL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/91gVc8pN1QL._SY550_.jpg"
+        ],
+        "description": "Cozy hooded sweatshirt for comfort.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 96,
+        "category": "kids",
+        "name": "Baby Boy Corduroy Overalls",
+        "price": "1199",
+        "main_image": "https://m.media-amazon.com/images/I/51SewAZfM1L._SX522_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/612mIJ1oh-L._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/617DuYG3bzL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/71HJah8tuGL._SX522_.jpg"
+        ],
+        "description": "Cute overalls for a playful look.",
+        "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 97,
+        "category": "kids",
+        "name": "Dress Shoes",
+        "price": "999",
+        "main_image": "https://m.media-amazon.com/images/I/6105VHLMOFL._SY575_.jpg",
+        "additional_images": [
+ "https://m.media-amazon.com/images/I/6105VHLMOFL._SY575_.jpg",
+            "https://m.media-amazon.com/images/I/718agwQ8oOL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/71uQsdYpdNL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/71Jqup7dlYL._SY500_.jpg"
+        ],
+        "description": "Elegant dress shoes for formal occasions.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 98,
+        "category": "kids",
+        "name": "Easetensil Printed Soft Comfortable Stretchable Girls Leggings",
+        "price": "599",
+        "main_image": "https://m.media-amazon.com/images/I/71heQSBSFmL._SX522_.jpg",
+        "additional_images": [
+          "https://m.media-amazon.com/images/I/71heQSBSFmL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/71tkTq7gcFL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/61uYhtrjZIL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/61tg5o6SEpL._SX522_.jpg"
+        ],
+        "description": "Comfortable leggings for everyday wear.",
+        "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 99,
+        "category": "kids",
+        "name": "Simplee kids Little Girls Long Sleeve Sweter dress",
+        "price": "1399",
+        "main_image": "https://m.media-amazon.com/images/I/61p8W8LXPjL._SX522_.jpg",
+        "additional_images": [
+             "https://m.media-amazon.com/images/I/61p8W8LXPjL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/71WM1xBjL3L._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/71kohcIYxyL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/717DtWSIccL._SX522_.jpg"
+        ],
+        "description": "Warm sweater dress for chilly days.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 100,
+        "category": "kids",
+        "name": "Kekambas Youth Dewayne Warren Baseball Jersey",
+        "price": "899",
+        "main_image": "https://m.media-amazon.com/images/I/81wbxI-GCRL._SX522_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/81wbxI-GCRL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/81Ct6IKtkiL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/81oxJgPu5mL._SX522_.jpg"
+        ],
+        "description": "Stylish baseball jersey for active kids.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+   {
+        "id": 101,
+        "category": "furniture",
+        "name": "FURNESHO Wooden 7 Seater Sofa set for Living Room",
+        "price": "37,139",
+        "main_image": "https://m.media-amazon.com/images/I/71yJmGL+zqL._SX425_.jpg",
+        "additional_images": [
+           "https://m.media-amazon.com/images/I/71yJmGL+zqL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/41kQ7gpMGKL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/71JWY4aEEuL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/51XWjYALcSL._SX425_.jpg"
+        ],
+        "description": "Comfortable and stylish sofa.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 102,
+        "category": "furniture",
+        "name": "LIZZAWOOD Solid Sheesham Wood 6 Seater Dining Table ",
+        "price": "24,999",
+        "main_image": "https://m.media-amazon.com/images/I/51Yt8mJTKzL._SX300_SY300_QL70_FMwebp_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/51Yt8mJTKzL._SX300_SY300_QL70FMwebp_.jpg",
+            "https://m.media-amazon.com/images/I/41-zsy7-Z0L._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/51qYJynGHrL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/41oPH2rLzFL._SX425_.jpg"
+        ],
+        "description": "Elegant dining table for your dining area.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 103,
+        "category": "furniture",
+        "name": "Amerlife Queen Size Platform Bed Frame Velvet Upholster Bed",
+        "price": "3999",
+        "main_image": "https://m.media-amazon.com/images/I/81lzsVHJK-L._SX425_.jpg",
+        "additional_images": [
+ "https://m.media-amazon.com/images/I/81lzsVHJK-L._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/91gMDnkULOL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/71UVhpkPQFL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/71ilEUx8-+L._SX425_.jpg"
+        ],
+        "description": "Sturdy and stylish bed frame.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 104,
+        "category": "furniture",
+        "name": "Sunon Office Chair Adjustable Lumbar Support Office Chair",
+        "price": "8999",
+        "main_image": "https://m.media-amazon.com/images/I/41znNTzj2fL._SX300_SY300_QL70_FMwebp_.jpg",
+        "additional_images": [
+ "https://m.media-amazon.com/images/I/41znNTzj2fL._SX300_SY300_QL70_FMwebp_.jpg",
+            "https://m.media-amazon.com/images/I/61C3uozmfZL._SY450_.jpg",
+            "https://m.media-amazon.com/images/I/71dwROX2hNL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/81SPXZlubML._SX425_.jpg"
+        ],
+        "description": "Ergonomic office chair for comfort.",
+        "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 105,
+        "category": "furniture",
+        "name": "EDEUEQUE Round Coffee Table For Living Room",
+        "price": "5,499",
+        "main_image": "https://m.media-amazon.com/images/I/51jdXNO3SCL._SX300_SY300_QL70_FMwebp_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/51jdXNO3SCL._SX300_SY300_QL70_FMwebp_.jpg",
+            "https://m.media-amazon.com/images/I/71scIvfDCZL._SX425_.jpg",
+            "https://m.media-amazon.com/images/G/31/shopbylook/shoppable-images/dot_highlighted._CB649097807_.svg"
+        ],
+        "description": "Modern coffee table for your living room.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 106,
+        "category": "furniture",
+        "name": "YITAHOME Engineered Wood 5 Tier Bookshelf And Bookcases",
+        "price": "2,599",
+        "main_image": "https://m.media-amazon.com/images/I/81rHvx5XzWL._SX425_.jpg",
+        "additional_images": [
+ "https://m.media-amazon.com/images/I/81rHvx5XzWL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/71c7ElkQIgL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/51wt4rJKqYL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/81i-BJpfSDL._SX425_.jpg"
+        ],
+        "description": "Stylish bookshelf for your home library.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 107,
+        "category": "furniture",
+        "name": "Klaxon Sigma Engineered Wood TV Stand",
+        "price": "3,699",
+        "main_image": "https://m.media-amazon.com/images/I/81jdyBIXk9L._SX425_.jpg",
+        "additional_images": [
+             "https://m.media-amazon.com/images/I/81jdyBIXk9L._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/618faRF3GUL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/51SF3+Cko-L._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/61yad1jXE5L._SX425_.jpg"
+        ],
+        "description": "Modern TV stand for your entertainment area.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 108,
+        "category": "furniture",
+        "name": "Vergo Plush Dining Chair | Accent Chair For Room Bedroom",
+        "price": "2,799",
+        "main_image": "https://m.media-amazon.com/images/I/61RES+ESWVL._SX425_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/61RES+ESWVL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/612ofaYMFxL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/610prYdL54L._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/51qeULpuMgL._SX425_.jpg"
+        ],
+        "description": "Comfortable dining chair with stylish design.",
+        "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 109,
+        "category": "furniture",
+        "name": "Brown Art Shoppess Nightstand End Side Table with Drawer",
+        "price": "1599",
+        "main_image": "https://m.media-amazon.com/images/I/71TR4ruV02L._SX425_.jpg",
+        "additional_images": [
+                 "https://m.media-amazon.com/images/I/71TR4ruV02L._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/41Sj7bQGczL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/61UpakYSZeL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/51k15mkJLoL._SY679_.jpg"
+        ],
+        "description": "Functional nightstand with storage.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 110,
+        "category": "furniture",
+        "name": "Amazon Brand Solimo Mardray Engineered Wardrobe",
+        "price": "43999",
+        "main_image": "https://m.media-amazon.com/images/I/713LoJ+hU5L._SX425_.jpg",
+        "additional_images": [
+             "https://m.media-amazon.com/images/I/713LoJ+hU5L._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/71GODnf7fOL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/71x88q61-wL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/51en-HJ4d1L._SX425_.jpg"
+        ],
+        "description": "Spacious wardrobe with ample storage.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 111,
+        "category": "furniture",
+        "name": "Takasho Indoor Outdoor Wooden Seat Divan Bench",
+        "price": "7299",
+        "main_image": "https://m.media-amazon.com/images/I/51qQg3HtLZL._SX425_.jpg",
+        "additional_images": [
+ "https://m.media-amazon.com/images/I/51qQg3HtLZL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/81dBLf-tHtL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/61X3PLEYfsL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/51sGUupNEdL._SX425_.jpg"
+        ],
+        "description": "Elegant bench for your hallway or garden.",
+        "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 112,
+        "category": "furniture",
+        "name": "Homeaccex Metalic Ottoman Stool for Living Room Furniture",
+        "price": "3999",
+        "main_image": "https://m.media-amazon.com/images/I/91XHRkomp-L._SX425_.jpg",
+        "additional_images": [
+ "https://m.media-amazon.com/images/I/91XHRkomp-L._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/71-Yrlw+ZoL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/81VgrRzbMVL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/813u6A9h2CL._SX425_.jpg"
+        ],
+        "description": "Versatile ottoman for extra seating and storage.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 113,
+        "category": "furniture",
+        "name": "Huslu 2 units Double Door Plastic Cupboard For Storage Cabinets ",
+        "price": "5399",
+        "main_image": "https://m.media-amazon.com/images/I/71dXnuYdYuL._SX425_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/71dXnuYdYuL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/71lIv8mIG8L._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/71vFGW4RYAL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/71BlAd2Bd-L._SX425_.jpg"
+        ],
+        "description": "Spacious storage cabinet for home organization.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 114,
+        "category": "furniture",
+        "name": "Modern End Bedside Table with Charging Station",
+        "price": "10999",
+        "main_image": "https://m.media-amazon.com/images/I/81UkBfqew9L._SX425_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/81UkBfqew9L._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/812FvvRerQL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/81ywXJUv3rL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/81ETDbA+vFL._SX425_.jpg"
+        ],
+        "description": "Compact bedside table with storage.",
+        "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 115,
+        "category": "furniture",
+        "name": "Wakefit Recliner Chair 3 Year Warranty ",
+        "price": "20499",
+        "main_image": "https://m.media-amazon.com/images/I/61BeoUNPaIL._SX425_.jpg",
+        "additional_images": [
+ "https://m.media-amazon.com/images/I/61BeoUNPaIL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/41b+1OXRKwL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/51NM06Ho1AL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/51Dt3abOgtL._SX425_.jpg"
+        ],
+        "description": "Comfortable recliner chair for relaxation.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 116,
+        "category": "furniture",
+        "name": "Pointant Bar Counter Height Bar Stool",
+        "price": "4999",
+        "main_image": "https://m.media-amazon.com/images/I/81chlc-8wvL._SX425_.jpg",
+        "additional_images": [
+ "https://m.media-amazon.com/images/I/81chlc-8wvL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/718ea9QZHIL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/41U9T-9PqIL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/91yVgZXjW7L._SX425_.jpg"
+        ],
+        "description": "Stylish bar stool for your kitchen or bar area.",
+        "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 117,
+        "category": "furniture",
+        "name": "SIGNATURE Kraft Solid Sheesham Wood Bench for Living Room",
+        "price": "6599",
+        "main_image": "https://m.media-amazon.com/images/I/71eyY1coxYL._SX425_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/71eyY1coxYL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/514MiSXA5vL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/41U2xE9r2TL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/51ga8GiKJvL._SX425_.jpg"
+        ],
+        "description": "Elegant dining bench for additional seating.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 118,
+        "category": "furniture",
+        "name": "Solimo Ross Engineered Wood Entertainment Unit",
+        "price": "9999",
+        "main_image": "https://m.media-amazon.com/images/I/81QLjRyE4-L._SX425_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/81QLjRyE4-L._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/71NVb25PF2L._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/51s0mH+iQ+L._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/71K2pA0i+KL._SX425_.jpg"
+        ],
+        "description": "Functional TV unit with storage space.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 119,
+        "category": "furniture",
+        "name": "Quilting back Fabric Accent  Chair Luxury Lounge chair",
+        "price": "22299",
+        "main_image": "https://m.media-amazon.com/images/I/612U04+qmXL._SX425_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/612U04+qmXL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/518UCjIl4dL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/41XRx-ocV1L._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/91rYiN82EHL._SX425_.jpg"
+        ],
+        "description": "Stylish accent chair for any room.",
+        "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 120,
+        "category": "furniture",
+        "name": "Tribesigns Narrow Console Table Long sofa Table Entry",
+        "price": "11999",
+        "main_image": "https://m.media-amazon.com/images/I/81G59zVjltL._SX425_.jpg",
+        "additional_images": [
+ "https://m.media-amazon.com/images/I/81G59zVjltL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/81wlTRkrzXL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/81nEErMiAYL._SX425_.jpg",
+            "https://m.media-amazon.com/images/G/31/shopbylook/shoppable-images/dot_highlighted._CB649097807_.svg"
+        ],
+        "description": "Elegant console table for your entryway.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 121,
+        "category": "furniture",
+        "name": "Woodnesia Modern Tufed Plush Armchair",
+        "price": "2799",
+        "main_image": "https://m.media-amazon.com/images/I/61q9FKdvb6L._SX425_.jpg",
+        "additional_images": [
+ "https://m.media-amazon.com/images/I/61q9FKdvb6L._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/61o-qNlB6eL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/61kepNjBBIL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/51Eqm+yhb4L._SX425_.jpg"
+        ],
+        "description": "Comfortable armchair for your living room.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 122,
+        "category": "furniture",
+        "name": "Engineered Wood Console Hallway Table",
+        "price": "5299",
+        "main_image": "https://m.media-amazon.com/images/I/7123NAWnfnL._SX425_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/7123NAWnfnL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/61+TCuwbfuL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/81bPZpwyzzL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/61jjvfWxp3L._SX425_.jpg"
+        ],
+        "description": "Stylish table for your hallway.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 123,
+        "category": "furniture",
+        "name": "Handicraft Solid Wood Bookcase",
+        "price": "5199",
+        "main_image": "https://m.media-amazon.com/images/I/61tcTcSa0UL._SX425_.jpg",
+        "additional_images": [
+ "https://m.media-amazon.com/images/I/61tcTcSa0UL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/71-C+Hyt8dL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/71s+oyCjmAL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/411tWbJziZL._SX425_.jpg"
+        ],
+        "description": "Spacious bookcase for your collection.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 124,
+        "category": "furniture",
+        "name": "DEVOKO Outdooor Wicker Rattan Unique Design Daybed",
+        "price": "9999",
+        "main_image": "https://m.media-amazon.com/images/I/51R5HcOGlnL._SX425_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/51R5HcOGlnL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/91NyNSYz8DL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/51BnBWSjLfL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/51KEMFAmEmL._SX425_.jpg"
+        ],
+        "description": "Versatile daybed for lounging and sleeping.",
+        "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 125,
+        "category": "furniture",
+        "name": "Natraj Art & Craft Solid Sheesham Wood L shape 5 Seater Sofa",
+        "price": "40999",
+        "main_image": "https://m.media-amazon.com/images/I/71W3howaSyL._SX425_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/71W3howaSyL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/41zOEmsa70L._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/41rnChpWL5L._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/41fdTNXxikL.jpg"
+        ],
+        "description": "Functional side table for additional storage.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 126,
+        "category": "furniture",
+        "name": "Indian Décor Tall Pedestal metal Plant Stand (Pack 2)",
+        "price": "5199",
+        "main_image": "https://m.media-amazon.com/images/I/61dNXCBmALL._SY679_.jpg",
+        "additional_images": [
+ "https://m.media-amazon.com/images/I/61dNXCBmALL._SY679_.jpg",
+            "https://m.media-amazon.com/images/I/61bZGbT+RAL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/71INDwDzT2L._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/71lh8sr5r9L._SX425_.jpg"
+        ],
+        "description": "Elegant pedestal table for various uses.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 127,
+        "category": "furniture",
+        "name": "Melamine Dinner Set Everyday Elegant, Stain Resistant for Your Home Kitchen",
+        "price": "899",
+        "main_image": "https://m.media-amazon.com/images/I/61aI2EjoyiL._SX300_SY300_QL70_FMwebp_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/61aI2EjoyiL._SX300_SY300_QL70_FMwebp_.jpg",
+            "https://m.media-amazon.com/images/I/31YIeSs2xJL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/71d6BncdGiL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/4167QqeMzGL.jpg"
+        ],
+        "description": "Stylish dinner set for everday.",
+        "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 128,
+        "category": "furniture",
+        "name": " Steren Impex |24 Piece Stainless Steel Premium Cutlury Set",
+        "price": "3499",
+        "main_image": "https://m.media-amazon.com/images/I/71H6z2GKO6L._SX425_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/61ffbhYytDL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/61O88TVocYL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/71pGAXO3UTL._SX425_.jpg"
+        ],
+        "description": "Complete cutlury set for your home.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 129,
+        "category": "furniture",
+        "name": "Stainless Steel Kitchen Utensil Set -25 Cooking Utensils Cookware Set",
+        "price": "11,999",
+        "main_image": "https://m.media-amazon.com/images/I/71-CAZY95xL._SX466_.jpg",
+        "additional_images": [
+           "https://m.media-amazon.com/images/I/71-CAZY95xL._SX466_.jpg",
+            "https://m.media-amazon.com/images/I/61o78cNUb0L._SY450_.jpg",
+            "https://m.media-amazon.com/images/I/91hVqQEkTVL._SY450_.jpg",
+            "https://m.media-amazon.com/images/I/81olh1EnpKL._SY450_.jpg+"
+        ],
+        "description": "Stylish accent table for any room.",
+        "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 130,
+        "category": "furniture",
+        "name": "Non-Stick Cookware 8-Piece Black Set , ",
+        "price": "4399",
+        "main_image": "https://m.media-amazon.com/images/I/71mDTOYtDSL._SX425_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/71mDTOYtDSL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/71-yyRNb8kL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/61l1-45VGfL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/81ON+YCVcML._SX425_.jpg"
+        ],
+        "description": "Wardrobe with an integrated mirror.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+   {
+        "id": 131,
+        "category": "beauty",
+        "name": "Maybelline Fit Me! Liquid Full Coverage Foundation For Dry, Normal Skin Spf-18",
+        "price": "999",
+        "main_image": "https://m.media-amazon.com/images/I/61ZLA-VUiHL._SY355_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/61ZLA-VUiHL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/71J3fVJacJL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/911KTdpPYlL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/81WY-PY7YaL._SY355_.jpg"
+        ],
+        "description": "Long-lasting foundation for flawless skin.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 132,
+        "category": "beauty",
+        "name": "6Pcs Nude Liquid Glossy Lipstick, Waterproof,Long Lasting",
+        "price": "499",
+        "main_image": "https://m.media-amazon.com/images/I/610AIkJb2eL._SY355_PIbundle-6,TopRight,0,0_AA355SH20_.jpg",
+        "additional_images": [
+ "https://m.media-amazon.com/images/I/610AIkJb2eL._SY355_PIbundle-6,TopRight,0,0_AA355SH20_.jpg",
+            "https://m.media-amazon.com/images/I/71kpqnv6OKL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/81MptqMm1hL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/81BuYiVd1UL._SY355_.jpg"
+        ],
+        "description": "High-pigment lipstick in various shades.",
+        "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 133,
+        "category": "beauty",
+        "name": "L'Oreal Paris Volumising Mascara,Waterproof,Enriched Caring Formula",
+        "price": "699",
+        "main_image": "https://m.media-amazon.com/images/I/6134a-yl1PL._SX355_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/6134a-yl1PL._SX355_.jpg",
+            "https://m.media-amazon.com/images/I/71w+ZmGqzKL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/815PhMy41EL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/71za07-28iL._SY355_.jpg"
+        ],
+        "description": "Volumizing mascara for full lashes.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 134,
+        "category": "beauty",
+        "name": "MARS Smudge Proof Liquid Pen Eyeliner With Ultra Fine Tip",
+        "price": "399",
+        "main_image": "https://m.media-amazon.com/images/I/411nwaTuZKL._SY355_.jpg",
+        "additional_images": [
+ "https://m.media-amazon.com/images/I/411nwaTuZKL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/81X7ZaAxrwL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/71ovuw6eomL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/61jIG0z6Z3L._SY355_.jpg"
+        ],
+        "description": "Precision eyeliner for defining your eyes.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 135,
+        "category": "beauty",
+        "name": "Lakme Face It Blush Flushed Pink B2 4gm",
+        "price": "599",
+        "main_image": "https://m.media-amazon.com/images/I/51wNImUr18L._SY355_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/610++rAIuRL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/61Ai7W8YvBL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/71+yE3132GL._SY355_.jpg"
+        ],
+        "description": "Rosy blush for a natural glow.",
+        "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 136,
+        "category": "beauty",
+        "name": "Fashion Bar Set of 12 Gel Finish Nail Polishes (Combo set-20)",
+        "price": "299",
+        "main_image": "https://m.media-amazon.com/images/I/81UXG6QcITL._SX355_PIbundle-12,TopRight,0,0_SX355SY338SH20_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/81UXG6QcITL._SX355_PIbundle-12,TopRight,0,0_SX355SY338SH20_.jpg",
+            "https://m.media-amazon.com/images/I/71ybKuM75eL._SY450_.jpg",
+            "https://m.media-amazon.com/images/I/71ybKuM75eL._SY450_.jpg",
+            "https://m.media-amazon.com/images/I/71NFclYKCHL._SY450_.jpg"
+        ],
+        "description": "High-quality nail polish in trendy colors.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 137,
+        "category": "beauty",
+        "name": "Pilgrim Squalane Grow Moisturizer Cream For Face With Niacinamide & Vitamin C",
+        "price": "799",
+        "main_image": "https://m.media-amazon.com/images/I/61Ayr0wq8rL._SY355_.jpg",
+        "additional_images": [
+ "https://m.media-amazon.com/images/I/61Ayr0wq8rL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/614LdRU+w0L._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/6173aJDw1uL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/61p3+Rs6NvL._SY355_.jpg"
+        ],
+        "description": "Hydrating moisturizer for smooth skin.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 138,
+        "category": "beauty",
+        "name": "Minimalist 10% Vitamin C Face Serum for Glowing Skin || C Formula for  men and women",
+        "price": "999",
+        "main_image": "https://m.media-amazon.com/images/I/717Kb7GUFyL._SY355_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/717Kb7GUFyL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/61C0cV0QG5L._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/51lKu3D6wjL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/613jLYu9qhL._SY355_.jpg"
+        ],
+        "description": "Anti-aging serum for youthful skin.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 139,
+        "category": "beauty",
+        "name": "Minimalist Sunscreen SPF 50 PA++++ ",
+        "price": "649",
+        "main_image": "https://m.media-amazon.com/images/I/41YdhlLCE4L._SY355_.jpg",
+        "additional_images": [
+ "https://m.media-amazon.com/images/I/41YdhlLCE4L._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/518uwuxMF5L._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/51Gj8g+vVML._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/51BatHjjT2L._SY355_.jpg"
+        ],
+        "description": "Broad-spectrum sunscreen for sun protection.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 140,
+        "category": "beauty",
+        "name": "L'Oreal Pariseye Eye Defence Eye Cream with Caddeine And Hyaluronics",
+        "price": "2,799",
+        "main_image": "https://m.media-amazon.com/images/I/61tuB-TSc1L._SY355_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/61tuB-TSc1L._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/710EgYgEtmL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/71+RBC9Lp2L._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/71gpoTOqWzL._SY355_.jpg"
+        ],
+        "description": "Hydrating eye cream for dark circles.",
+        "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 141,
+        "category": "beauty",
+        "name": "Earthy Boon Charcoal Face Mask Peel Off Blackhead For Girls And boys",
+        "price": "499",
+        "main_image": "https://m.media-amazon.com/images/I/81Qr1vHrm7S._SY355_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/81Qr1vHrm7S._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/71lQR2wnx4S._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/61hymuZTESS._SY679_.jpg"
+        ],
+        "description": "Revitalizing face mask for glowing skin.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 142,
+        "category": "beauty",
+        "name": "NIVEA Aloe Protection Body Lotion 400ml ",
+        "price": "699",
+        "main_image": "https://m.media-amazon.com/images/I/41jGQmPwULL._SY355_PIbundle-2,TopRight,0,0_AA355SH20_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/41jGQmPwULL._SY355_PIbundle-2,TopRight,0,0_AA355SH20_.jpg",
+            "https://m.media-amazon.com/images/I/517Sc0h91SL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/61LirFTrJgL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/61Q7ixeMdqL._SY355_.jpg"
+        ],
+        "description": "Moisturizing body lotion for soft skin.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 143,
+        "category": "beauty",
+        "name": "WOW Skin Science Non Sticky Onion Hair Serum For Hair Growth",
+        "price": "799",
+        "main_image": "https://m.media-amazon.com/images/I/81u6HwcU53L._SY355_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/81u6HwcU53L._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/51K9ECEZiiL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/616epmoJX2L._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/51163FegcxL._SY355_.jpg"
+        ],
+        "description": "Nourishing hair serum for shiny hair.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 144,
+        "category": "beauty",
+        "name": "Himalaya Anti Hair Fall Shampoo with Bhringaraja",
+        "price": "499",
+        "main_image": "https://m.media-amazon.com/images/I/51zKcJvPXQL._SY450_PIbundle-2,TopRight,0,0_SX336SY450SH20_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/51zKcJvPXQL._SY450_PIbundle-2,TopRight,0,0_SX336SY450SH20_.jpg",
+            "https://m.media-amazon.com/images/I/51hiXdWCp2L._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/510mn7Bsb4L._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/51eufPyNFeL._SY355_.jpg"
+        ],
+        "description": "Gentle shampoo for all hair types.",
+        "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 145,
+        "category": "beauty",
+        "name": "Mamaearth Onion Conditioner for Hair Growth & Hair Fall Control with Coconut Oil 250ml",
+        "price": "499",
+        "main_image": "https://m.media-amazon.com/images/I/41qJVQsBOlL._SY450_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/41qJVQsBOlL._SY450_.jpg",
+ "https://m.media-amazon.com/images/I/41klH+IxGOL._SY450_.jpg",
+            "https://m.media-amazon.com/images/I/6198PKqTBlL._SY450_.jpg",
+            "https://m.media-amazon.com/images/I/51d2UyvAFDL._SY450_.jpg"
+        ],
+        "description": "Hydrating conditioner for soft hair.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 146,
+        "category": "beauty",
+        "name": "SHANY Makeup Artists Must Have Pro Eyeshadow Palette 96 Color ",
+        "price": "699",
+        "main_image": "https://m.media-amazon.com/images/I/81GSIQ6kVZL._SY355_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/81OhM-kQ-cL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/81BBwK8m1yL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/61Rzue-E6AL._SY355_.jpg"
+        ],
+        "description": "Pigmented eye shadow in various colors.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 147,
+        "category": "beauty",
+        "name": "BR KISSING FRUIT GLOSS 36 Pieces",
+        "price": "399",
+        "main_image": "https://m.media-amazon.com/images/I/51uw4uKeozL._SX300_SY300_QL70_FMwebp_.jpg",
+        "additional_images": [
+ "https://m.media-amazon.com/images/I/51uw4uKeozL._SX300_SY300_QL70_FMwebp_.jpg",
+            "https://m.media-amazon.com/images/I/91hhQHXHfXL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/71CRNlC6PoL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/91fV4RImF0L._SY355_.jpg"
+        ],
+        "description": "Shiny lip gloss for a glossy finish.",
+        "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 148,
+        "category": "beauty",
+        "name": "Neutrogena Oil Free Eye Makeup Remover, 162ml ",
+        "price": "399",
+        "main_image": "https://m.media-amazon.com/images/I/619zcTKVumL._SY450_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/619zcTKVumL._SY450_.jpg",
+            "https://m.media-amazon.com/images/I/71tJ3iGuMGL._SY450_.jpg",
+            "https://m.media-amazon.com/images/I/91KrdBPuomL._SY450_.jpg",
+            "https://m.media-amazon.com/images/I/81Tz1CliodL._SY450_.jpg"
+        ],
+        "description": "Gentle makeup remover for all skin types.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 149,
+        "category": "beauty",
+        "name": "Tree Hut Shea Sugar Scrub Coco Colada, 18 Fluid Ounce ",
+        "price": "599",
+        "main_image": "https://m.media-amazon.com/images/I/81+CZPubNNL._SY450_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/81+CZPubNNL._SY450_.jpg",
+            "https://m.media-amazon.com/images/I/71idpMzPHpL._SY450_.jpg",
+            "https://m.media-amazon.com/images/I/81kmHjkNPzL._SY450_.jpg",
+            "https://m.media-amazon.com/images/I/91Bj5dc+h7L._SY450_.jpg"
+        ],
+        "description": "Exfoliating body scrub for smooth skin.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 150,
+        "category": "beauty",
+        "name": "Vaseline Intensive Care Hand Cream for Healthy and Stronger Nails, 75ml",
+        "price": "499",
+        "main_image": "https://m.media-amazon.com/images/I/61FbvHn0W4L._SY355_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/61FbvHn0W4L._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/71Xnqm-eBtL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/41j4Y7-GXHL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/7174uA81lPL._SY355_.jpg"
+        ],
+        "description": "Moisturizing hand cream for soft hands.",
+        "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+   {
+        "id": 151,
+        "category": "accessories",
+        "name": "Legend Eyewear Fashion Square Sunglasses for Men Women Trendy Flat Lens Sun Glasses Outdoor Sports Driving Sunnies UV400 Protection",
+        "price": "1299",
+        "main_image": "https://m.media-amazon.com/images/I/5139+YyOktL._SX679_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/5139+YyOktL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/51xfW7J1dpL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/518RAb9J4uL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/51vCy-2jJyL._SX522_.jpg"
+        ],
+        "description": "Stylish sunglasses with UV protection.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 152,
+        "category": "accessories",
+        "name": "ADAMO Couple Combo Inner dials just for show purpose 10-327",
+        "price": "2999",
+        "main_image": "https://m.media-amazon.com/images/I/71-Thlp38RL._SX522_.jpg",
+        "additional_images": [
+ "https://m.media-amazon.com/images/I/71-Thlp38RL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/819lRB41KcL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/71TgS1YqPbL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/813l69tLmNL._SX679_.jpg"
+        ],
+        "description": "Elegant wristwatch with a leather strap.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 153,
+        "category": "accessories",
+        "name": "Jewelgenics Cubic Zirconia Titanium Plated Adjustable Beautiful Ring for Girls and Women (Silver) ",
+        "price": "1499",
+        "main_image": "https://m.media-amazon.com/images/I/61V6BPDn0IL._SY395_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/61V6BPDn0IL._SY395_.jpg",
+            ".https://m.media-amazon.com/images/I/61iAT0h9dxL._SY395_.jpg",
+            "https://m.media-amazon.com/images/I/61HDKWMxlcL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/51ISvN2bHyL._SY395_.jpg"
+        ],
+        "description": "Beautiful ring with a gemstone centerpiece.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 154,
+        "category": "accessories",
+        "name": "Floral Front Back Earrings - Ear Jacket - Dainty Ear Jacket - Gold Earrings - Ear Jacket Earrings - Minimal Earring - Dainty Ear Jacket",
+        "price": "899",
+        "main_image": "https://m.media-amazon.com/images/I/51zB7Cqn7HL._SY500_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/51zB7Cqn7HL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/41eC5mVvWAL._SX395_.jpg",
+            "https://m.media-amazon.com/images/I/51BYqtrJ3cL._SX395_.jpg",
+            "https://m.media-amazon.com/images/I/51E703QWWwL._SX395_.jpg"
+        ],
+        "description": "Elegant earrings for special occasions.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 155,
+        "category": "accessories",
+        "name": "Jewels Galaxy Gold-Plated Butterfly inspired Set of 5 Contemporary Stackable Bracelet Set For Women and Girls (CT-BNG-49191) ",
+        "price": "999",
+        "main_image": "https://m.media-amazon.com/images/I/7152YVg6ndL._SY395_.jpg",
+        "additional_images": [
+             "https://m.media-amazon.com/images/I/7152YVg6ndL._SY395_.jpg",
+            "https://m.media-amazon.com/images/I/61j41kMzAOL._SY395_.jpg",
+            "https://m.media-amazon.com/images/I/61m1GWVASgL._SY395_.jpg",
+            "https://m.media-amazon.com/images/I/61MdC62LRwL._SY395_.jpg"
+        ],
+        "description": "Stylish bracelet with intricate design.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 156,
+        "category": "accessories",
+        "name": "Boaccy Boho Multiple Strands Anklets Tree pendant Anklet Starfish and Turquoise and Sone Beads Ankle Bracelet Beach Foot Chain Foot Jewelry for Women and Girls",
+        "price": "699",
+        "main_image": "https://m.media-amazon.com/images/I/61V8BI4mNdL._SY395_.jpg",
+        "additional_images": [
+ "https://m.media-amazon.com/images/I/61V8BI4mNdL._SY395_.jpg",
+            "https://m.media-amazon.com/images/I/61dZFtxJdSL._SY395_.jpg",
+            "https://m.media-amazon.com/images/I/71dNZ7A+wcL._SY395_.jpg",
+            "https://m.media-amazon.com/images/I/71AEq9KcCPL._SY395_.jpg"
+        ],
+        "description": "Trendy anklet with charm details.",
+        "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 157,
+        "category": "accessories",
+        "name": "MANGOPIE Fashionable Girls Cute Peacock Feather Broch",
+        "price": "799",
+        "main_image": "https://m.media-amazon.com/images/I/71CYCPqqovL._SX355_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/71CYCPqqovL._SX355_.jpg",
+            ".https://m.media-amazon.com/images/I/81SOeBah22L._SX355_.jpg",
+            "https://m.media-amazon.com/images/I/71Wfjx0PCVL._SL1080_.jpg",
+            "https://m.media-amazon.com/images/I/81xd93EAUoL._SL1080_.jpg"
+        ],
+        "description": "Elegant brooch for adding a touch of style.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 158,
+        "category": "accessories",
+        "name": "Baground Multipurpose Women’s Tote Bags with Zip | Stylish Tote Bags | Tote Handbag ",
+        "price": "1199",
+        "main_image": "https://m.media-amazon.com/images/I/81wnJWidTtL._SY500_.jpg",
+        "additional_images": [
+             "https://m.media-amazon.com/images/I/81wnJWidTtL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/81pkN3+uUjL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/81RK5wH+-WL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/81--k8dGiKL._SX500_.jpg"
+        ],
+        "description": "Asthetic Tote bag",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+},
+ {
+        "id": 159,
+        "category": "accessories",
+        "name": "Confidence Attractive Printed Scarf For Boys Gifting Purpose (Multicolor) ",
+        "price": "599",
+        "main_image": "https://m.media-amazon.com/images/I/81J5xp8IgCL._SX679_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/81J5xp8IgCL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/81-puA9ViYL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/81e0XlCNlUL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/81yMrcWV+ML._SY550_.jpg"
+        ],
+        "description": "Lightweight scarf with vibrant patterns.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 160,
+        "category": "accessories",
+        "name": "GUSTAVE Waist Belts for Men Fashion Black Mens Belt Slide Lock Leather Belt for Men, with Click Buckle - 130cm Length, Free Adjustable, No Belt Hole",
+        "price": "499",
+        "main_image": "https://m.media-amazon.com/images/I/61KOrK1kdpL._SX522_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/61KOrK1kdpL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/61Y1H0Lqu9L._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/711DHmCWOxL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/61JXxrsLQ5L._SX522_.jpg"
+        ],
+        "description": "Durable leather belt with a classic buckle.",
+        "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 161,
+        "category": "accessories",
+        "name": "Bellroy Men's Leather Hide and Seek RFID Wallet (Black) ",
+        "price": "999",
+        "main_image": "https://m.media-amazon.com/images/I/41r-P0A83fL._SX300_SY300_.jpg",
+        "additional_images": [
+ "https://m.media-amazon.com/images/I/41r-P0A83fL._SX300_SY300_.jpg",
+            "https://m.media-amazon.com/images/I/61UR6jNg36L._SX450_.jpg",
+            "https://m.media-amazon.com/images/I/61b5YGrtqtL._SX450_.jpg",
+            "https://m.media-amazon.com/images/I/617rpAFoGSL._SX450_.jpg"
+        ],
+        "description": "Sleek wallet with multiple card slots.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 162,
+        "category": "accessories",
+        "name": "SUNBIRD Hair Accessories Multicolor Hair Clip Korean Fashion Style Barrettes Alligator Clip Set For Baby Girls Teens Toddlers, (14 Pcs, Korean Clip)",
+        "price": "199",
+        "main_image": "https://m.media-amazon.com/images/I/61ab92NlmHL._SY355_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/61ab92NlmHL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/61RZkG53tIL._SY450_.jpg",
+            "https://m.media-amazon.com/images/I/61DTOq7R1GL._SY355_.jpg"        ],
+        "description": "Decorative hair clip with rhinestones.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 163,
+        "category": "accessories",
+        "name": "CHAHBELI-Beautiful Peacock Design Evil Eye Metallic Keychain Bike Car Key chain Girls Boys Gifting Keychain Good Luck Keychain ",
+        "price": "299",
+        "main_image": "https://m.media-amazon.com/images/I/61PkLIjQiHL._SY500_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/61PkLIjQiHL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/61IWn2dO0bL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/61UQug5lp+L._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/51x7UeqlzSL._SY500_.jpg"
+        ],
+        "description": "Stylish keychain with unique design.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 164,
+        "category": "accessories",
+        "name": "Dreamyn initial Layered Necklace Gold V Pendant Necklaces Beads Necklace Chain Jewelry for Women and Girls. (silver) ",
+        "price": "1499",
+        "main_image": "https://m.media-amazon.com/images/I/610Jx-I9h2L._SY355_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/610Jx-I9h2L._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/51H+Yn3HmjL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/61zjDJvy4TL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/618tLrmVXxL._SY355_.jpg"
+        ],
+        "description": "Elegant necklace with a pendant.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 165,
+        "category": "accessories",
+        "name": "Women Hair Head Bands Headbands - Straw Knotted Beach Lafite Head Band for Women’s Hair ",
+        "price": "299",
+        "main_image": "https://m.media-amazon.com/images/I/71EBSpfug6L._SY355_.jpg",
+        "additional_images": [
+"https://m.media-amazon.com/images/I/71EBSpfug6L._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/71tx5m4uG-L._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/71BbgVGJ-uL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/71l6AWlS6UL._SY355_.jpg"
+        ],
+        "description": "Colorful hair band for everyday use.",
+        "rating": 4.6,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 166,
+        "category": "accessories",
+        "name": "SOHI Women's Raffia Designer Earrings - Black for Women & Girls ",
+        "price": "599",
+        "main_image": "https://m.media-amazon.com/images/I/71PAu5TfOlL._SY500_.jpg",
+        "additional_images": [
+ "https://m.media-amazon.com/images/I/71PAu5TfOlL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/81WQ83sjM9L._SY395_.jpg",
+            "https://m.media-amazon.com/images/I/61na2mkTABL._SY395_.jpg",
+            "https://m.media-amazon.com/images/I/61RjLqKePXL._SY395_.jpg"
+        ],
+        "description": "Delicate anklet with small charms.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    },
+    {
+        "id": 167,
+        "category": "accessories",
+        "name": "Shining Jewel - By Shivansh Shining Jewel Silver Plated Classic Knot Design Cufflinks For Men ",
+        "price": "799",
+        "main_image": "https://m.media-amazon.com/images/I/819Q+xZOsSL._SY395_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/819Q+xZOsSL._SY395_.jpg",
+            "https://m.media-amazon.com/images/I/81Jh6kPdfBL._SY395_.jpg",
+            "https://m.media-amazon.com/images/I/81ZZbHwGMpL._SY395_.jpg"
+        ],
+        "description": "Stylish cufflinks for formal wear.",
+        "rating": 4.8,
+        "stars": "★★★★★"
+    },
+    {
+        "id": 168,
+        "category": "accessories",
+        "name": "COLORFUL BLING Stainless Steel Sun and Moon Star Necklace",
+        "price": "999",
+        "main_image": "https://m.media-amazon.com/images/I/81Ne-BDOABL._SY395_.jpg",
+        "additional_images": [
+            "https://m.media-amazon.com/images/I/81V0Wh71XZL._SY395_.jpg",
+            "https://m.media-amazon.com/images/I/41zDgLIH-QL._SY395_.jpg",
+            "https://m.media-amazon.com/images/I/31SAZBaqGBL.jpg"
+        ],
+        "description": "Beautiful pendant with a minimalist design.",
+        "rating": 4.7,
+        "stars": "★★★★☆"
+    }
+]
